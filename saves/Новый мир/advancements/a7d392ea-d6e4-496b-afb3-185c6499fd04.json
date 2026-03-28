@@ -158,12 +158,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/fishy_business": {
-    "criteria": {
-      "cod": "2026-03-28 04:12:51 +0100"
-    },
-    "done": true
-  },
   "corail_woodcutter:recipes/from_birch_planks": {
     "criteria": {
       "has_ingredient": "2026-03-28 04:09:20 +0100"
@@ -221,6 +215,24 @@
   "corail_woodcutter:recipes/from_bamboo_planks": {
     "criteria": {
       "has_ingredient": "2026-03-28 04:09:20 +0100"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2026-03-28 04:12:51 +0100"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-03-28 04:30:16 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 04:30:16 +0100"
     },
     "done": true
   },

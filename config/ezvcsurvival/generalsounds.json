@@ -16292,6 +16292,102 @@
       "speed_multiplier": 1.0,
       "range_multiplier": 1.0,
       "is_priority": false
+    },
+    "farmersdelight:block.stove.crackle": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.cooking_pot.boil": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.cooking_pot.boil_soup": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.cutting_board.knife": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.cabinet.open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.cabinet.close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.skillet.sizzle": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.skillet.add_food": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:item.skillet.attack.strong": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:item.skillet.attack.weak": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:block.tomato_bush.pick_tomatoes": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:entity.rotten_tomato.throw": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farmersdelight:entity.rotten_tomato.hit": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "ltc2:open_bag": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "ltc2:watch": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "ltc2:evil_sword_skill": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
     }
   }
 }
