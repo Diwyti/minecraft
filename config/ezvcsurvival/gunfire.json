@@ -1190,6 +1190,141 @@
       "enabled": false,
       "speed": 1.0,
       "range": 40.0
+    },
+    "guardribbits:guard_ribbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "ribbits:ribbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "croaks:croak_captian": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "croaks:croak_soldier": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "croaks:ribbot": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:ribbot_wood": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:ribbot_mushroom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:ribbot_iron": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:ribbot_jonahanoj": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:ribbot_brown_mushroom": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:croak_axeman": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "croaks:croak_arbalist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "croaks:raid_core": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:raid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:raid_completed": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "croaks:croak_bomber": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:dragonfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:dumbo_octopus": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:ferret": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:jumping_spider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:koi_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:leaf_insect": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:otter": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:red_panda": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:sea_bunny": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "crittersandcompanions:shima_enaga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wandering_ribbit:wandering_ribbit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
     }
   }
 }
