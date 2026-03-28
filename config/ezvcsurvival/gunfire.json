@@ -1090,6 +1090,106 @@
       "enabled": false,
       "speed": 1.0,
       "range": 40.0
+    },
+    "bakery:wandering_baker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "vinery:mule": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "vinery:wandering_winemaker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "brewery:beer_elemental": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "butchery:turtleshellboat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "wildernature:bison": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:boar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:cassowary": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:deer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:dog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:flamingo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:hedgehog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:minisheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:owl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:pelican": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:penguin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:raccoon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:red_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:squirrel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "wildernature:turkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
     }
   }
 }

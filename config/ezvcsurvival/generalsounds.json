@@ -1308,6 +1308,126 @@
       "speed": 1.0,
       "range": 50.0,
       "blocked_sounds": []
+    },
+    "bakery:wandering_baker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "vinery:mule": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "vinery:wandering_winemaker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "brewery:beer_elemental": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "butchery:turtleshellboat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "wildernature:bison": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:boar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:cassowary": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:deer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:dog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:flamingo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:hedgehog": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:minisheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:owl": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:pelican": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:penguin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:raccoon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:red_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:squirrel": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "wildernature:turkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
     }
   },
   "sounds": {
@@ -16384,6 +16504,594 @@
       "is_priority": false
     },
     "ltc2:evil_sword_skill": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:cooking_pot_hit": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:drawer_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:drawer_close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:cabinet_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:cabinet_close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:cake_cut": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:cooking_pot_boiling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:roaster_cooking": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:stove_crackling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:crafting_bowl_stirring": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:mincer_cranking": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:water_sprinkler": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:cart_moving": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:dinner_bell": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:typewriter": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:breath": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:beer_elemental_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:beer_elemental_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:beer_elemental_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:beer_elemental_attack": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:brewstation_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:brewstation_kettle": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:brewstation_oven": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:brewstation_process_failed": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:brewstation_timer": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "doapi:brewstation_whistle": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "vinery:block.grapevine_pot.squeeze": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "vinery:cabinet_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "vinery:cabinet_close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "vinery:drawer_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "vinery:drawer_close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "herbalbrews:tea_kettle_boiling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:cooking_pot_boiling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:crafting_bowl_stirring": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:mincer_cranking": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:roaster_cooking": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:stove_crackling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:water_sprinkler": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "farm_and_charm:cart_moving": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:cha_ching": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:drawer_close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:drawer_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:coin": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:inflate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:deflate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:rope": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:hacksaw": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:crumbling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:wishbone_break": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:water_freezing": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "butchery:acid": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:deer_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:deer_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:deer_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:raccoon_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:raccoon_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:raccoon_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:squirrel_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:squirrel_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:squirrel_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:owl_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:owl_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:owl_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:bison_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:bison_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:bison_horn": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:bison_angry": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:bison_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:pelican_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:pelican_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:pelican_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:turkey_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:turkey_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:turkey_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:boar_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:boar_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:boar_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:red_wolf_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:red_wolf_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:red_wolf_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:red_wolf_aggro": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:flamingo_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:flamingo_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:flamingo_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:hedgehog_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:hedgehog_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:hedgehog_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:penguin_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:penguin_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:penguin_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:cassowary_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:cassowary_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:cassowary_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:dog_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:dog_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:dog_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:blunderbuss_shoot": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "wildernature:blunderbuss_load": {
       "enabled": false,
       "speed_multiplier": 1.0,
       "range_multiplier": 1.0,
