@@ -1,0 +1,16 @@
+filename = 'feur_extension_jungle-1.20.1-forge.jar'
+name = 'Feur Extension Jungle'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e3c0c4435d78f1b3054c77d3f51dff07405dba386735bd058ae71f5be906c0cfa7f3348cf1e354ec2368e705a0da9fb57798165e2b6300a775ae9ad93f3a4ee5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Uzp5QboY/versions/xcFRYgvf/feur_extension_jungle-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'Uzp5QboY'
+version = 'xcFRYgvf'

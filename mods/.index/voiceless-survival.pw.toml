@@ -1,0 +1,16 @@
+filename = 'Voiceless Survival-forge-1.20.1-2.0.2-beta-v3.jar'
+name = 'Voiceless Survival'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '54f8caae16b96dfc31ff8cead68c288d10189be487a82bebde5d94dbf0a53b332415830b88267b3f7c58b4a09fdae6e154548f1dd5af8735890ccacb7b6411aa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JJ3q7W2X/versions/jXbIcGMI/Voiceless Survival-forge-1.20.1-2.0.2-beta-v3.jar'
+
+[update.modrinth]
+mod-id = 'JJ3q7W2X'
+version = 'jXbIcGMI'

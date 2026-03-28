@@ -1,0 +1,16 @@
+filename = 'ecologics-forge-1.20.1-2.2.4.jar'
+name = 'Ecologics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '368e84a712c23461ea8d525260a5d4e1d150db2e279ba7c0874ec418ef99fa5f3094f9838a658b5976a18a1a1251edcdc21c607834a2cee01a38c477e2078021'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NCKpPR0Z/versions/lNxRTxLS/ecologics-forge-1.20.1-2.2.4.jar'
+
+[update.modrinth]
+mod-id = 'NCKpPR0Z'
+version = 'lNxRTxLS'

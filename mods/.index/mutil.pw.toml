@@ -1,0 +1,16 @@
+filename = 'mutil-1.20.1-6.3.0.jar'
+name = 'mutil'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c66851d7a1b8ae8faed39fb2974e126433db3ca107ead21edae99788cd335700073812920648bcc2b0d30ef1712697ded050c2e0c314484c6f420d5150a0bdeb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HWHl8Evb/versions/ls59E7KT/mutil-1.20.1-6.3.0.jar'
+
+[update.modrinth]
+mod-id = 'HWHl8Evb'
+version = 'ls59E7KT'

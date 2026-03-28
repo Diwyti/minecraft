@@ -1,0 +1,16 @@
+filename = 'subsurface-1.0.jar'
+name = 'Subsurface'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c1a6c9c7c2ae8f89a6be4da384e5518c7c15a94c82636c5178e81ad303ce18dfd6642355a7ae7e1404a888f613a97d6f082a3aa080f8760b07ac978cf293e91c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mGEL09gE/versions/dynEna6c/subsurface-1.0.jar'
+
+[update.modrinth]
+mod-id = 'mGEL09gE'
+version = 'dynEna6c'
