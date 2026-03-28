@@ -1,0 +1,16 @@
+filename = 'voicechat-forge-1.20.1-2.6.13.jar'
+name = 'Simple Voice Chat'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+
+[download]
+hash = '69ddb295f77c18605c30a86371f76fd706528f31a57f4e18f4f74debde8c6e6003a2a4c3619c6dd71522bfbb94c4c47e2452227e821ee3ffe2155301e7dc3057'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9eGKb6K1/versions/yyvHa275/voicechat-forge-1.20.1-2.6.13.jar'
+
+[update.modrinth]
+mod-id = '9eGKb6K1'
+version = 'yyvHa275'
