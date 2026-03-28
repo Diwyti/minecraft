@@ -1,0 +1,16 @@
+filename = 'overgeared-1.20.1-1.6.25.jar'
+name = 'Overgeared'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9054307d76d0bdca14ca20031846f9f02f25d5d31dec7a04ddc58ce602978a01f6c91eefc0c8b6526e4c4e97165331892aededb81cc3d7d38250e004a57d4569'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SQL3X2Ky/versions/J5uzM7bv/overgeared-1.20.1-1.6.25.jar'
+
+[update.modrinth]
+mod-id = 'SQL3X2Ky'
+version = 'J5uzM7bv'
