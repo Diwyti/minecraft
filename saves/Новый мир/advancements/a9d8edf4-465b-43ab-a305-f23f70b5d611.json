@@ -1,0 +1,123 @@
+{
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-03-28 08:39:15 +0500"
+    },
+    "done": false
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "overgeared:root": {
+    "criteria": {
+      "Trigger": "2026-03-28 08:39:14 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_mosaic": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2026-03-28 08:39:14 +0500"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 08:39:53 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

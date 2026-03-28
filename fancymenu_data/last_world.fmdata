@@ -2,6 +2,6 @@ type = last_world
 
 last_world {
   is_server = false
-  world = /Users/jonasbauer/Library/Application Support/PrismLauncher/instances/1.20.1(3)/minecraft/saves/Новый мир
+  world = Q:/bildi/server_kakoyto/minecraft/saves/Новый мир
 }
 
