@@ -13,6 +13,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:mushlin_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:zoglin": {
       "enabled": false,
       "speed": 1.0,
@@ -31,7 +37,19 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "alexscaves:licowitch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:guzzleghast": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -73,6 +91,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:mushlin_bumper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:warden": {
       "enabled": false,
       "speed": 1.0,
@@ -85,6 +109,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:zombie_piglin_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:phantom": {
       "enabled": false,
       "speed": 1.0,
@@ -92,6 +122,12 @@
       "threshold": -20.0
     },
     "minecraft:zombified_piglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:zombie_cultist_rider": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -139,6 +175,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:zombie_piglin_cultist_leader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:ender_dragon": {
       "enabled": false,
       "speed": 1.0,
@@ -181,6 +223,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:warped_spewer_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "alexscaves:corrodent": {
       "enabled": false,
       "speed": 1.0,
@@ -205,6 +253,18 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:basalt_executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:ember": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:skeleton": {
       "enabled": true,
       "speed": 1.0,
@@ -223,13 +283,37 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:the_furnace": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "alexscaves:magnetron": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:piglin_executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "alexscaves:forsaken": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:piglin_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:soul_furnace": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -307,6 +391,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:gilded_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:creeper": {
       "enabled": false,
       "speed": 1.0,
@@ -343,7 +433,31 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:piglin_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "alexscaves:watcher": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:revenant_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:crimson_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:piglin_cultist_leader": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -373,6 +487,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:soul_ember": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:silverfish": {
       "enabled": false,
       "speed": 1.0,
@@ -391,8 +511,20 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "luminous_nether:cultist_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:zombie": {
       "enabled": true,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "luminous_nether:glider": {
+      "enabled": false,
       "speed": 1.0,
       "range": 60.0,
       "threshold": -20.0
@@ -423,7 +555,19 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "aquaculture:box_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:glow_squid": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:windfly": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -459,7 +603,19 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "deep_aether:gentle_wind": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:horse": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:quail": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -484,6 +640,12 @@
       "threshold": -20.0
     },
     "aether:sheepuff": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:aerglow_fish": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -549,6 +711,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "luminous_nether:pottergeist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "quark:foxhound": {
       "enabled": false,
       "speed": 1.0,
@@ -567,7 +735,19 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "aquaculture:arrau_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:donkey": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "deep_aether:venomite": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -597,6 +777,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "deep_aether:eots_controller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "quark:stoneling": {
       "enabled": false,
       "speed": 1.0,
@@ -621,6 +807,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "forestry:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:bee": {
       "enabled": false,
       "speed": 1.0,
@@ -633,7 +825,19 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "deep_aether:eots_segment": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:cat": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "aquaculture:starshell_turtle": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,

@@ -924,6 +924,390 @@
       "speed": 1.0,
       "range": 60.0,
       "blocked_sounds": []
+    },
+    "deep_aether:aerglow_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:quail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:venomite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:windfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:eots_controller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:eots_segment": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:baby_zephyr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "deep_aether:gentle_wind": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:mushlin_bumper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:piglin_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:piglin_cultist_leader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:piglin_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:piglin_executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:revenant_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:crimson_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:cultist_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:glider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:the_furnace": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:ember": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:gilded_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:soul_furnace": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:soul_ember": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:basalt_executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:zombie_piglin_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:zombie_piglin_cultist_leader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:mushlin_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:guzzleghast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:warped_spewer_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:pottergeist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "luminous_nether:zombie_cultist_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:box_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:arrau_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:starshell_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:atlantic_cod": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:blackfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:pacific_halibut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:atlantic_halibut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:atlantic_herring": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:pink_salmon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:pollock": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:rainbow_trout": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:bayad": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:boulti": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:capitaine": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:synodontis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:smallmouth_bass": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:bluegill": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:brown_trout": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:carp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:catfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:gar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:minnow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:muskellunge": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:perch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:arapaima": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:piranha": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:tambaqui": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:brown_shrooma": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:red_shrooma": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:red_grouper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "aquaculture:tuna": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
+    },
+    "forestry:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "blocked_sounds": []
     }
   },
   "sounds": {
@@ -15472,6 +15856,438 @@
       "is_priority": false
     },
     "alexscaves:scrap_metal_place": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.nabooru": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.a_morning_wish": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.cyclone": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.above_the_rain": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.atta": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.faent": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.himininn": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.music_disc.locus_for_winds": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.quail.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.quail.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.quail.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.venomite.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.venomite.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.venomite.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.windfly.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.windfly.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.eots.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.eots.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.eots.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.eots.blowing": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:entity.eots.shoot": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:music.boss.eots": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.armor.equip_skyjade": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.armor.equip_stratus": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.equip_skyjade_ring": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.equip_gravitite_ring": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.equip_stratus_ring": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.equip_spooky_ring": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.equip_slider_eye": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.ability_slider_eye": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.accessory.equip_medal_of_honor": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.tool.afterburner_fires": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.armor.equip_stormforged": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:item.armor.equip_floaty_scarf": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "deep_aether:music.deep_aether": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:nullaudio": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:ritual": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:sunsetatglegorm": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:crimsonexplosion": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:crimsongrowl": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:ghostbreath": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:forestambience": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:fungalplainsmusic": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:adayinthenether": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:guzzleghastwail": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:spirit": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:poltergeist": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:poltergeisthurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:castritual": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:furnace_step": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:furnace_damaged": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:furnace_ground_pound": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "luminous_nether:cultistaxethrow": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "patchouli:book_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "patchouli:book_flip": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:tackle_box_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:tackle_box_close": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:worm_farm_empty": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_mount_removed": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_mount_broken": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_mount_placed": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_mount_add_item": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:bobber_bait": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:bobber_land_lava": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:jellyfish_flop": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_flop": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:fish_hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:jellyfish_collide": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:bottle_open": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "aquaculture:bobber_note_catch": {
       "enabled": false,
       "speed_multiplier": 1.0,
       "range_multiplier": 1.0,

@@ -770,6 +770,326 @@
       "enabled": false,
       "speed": 1.0,
       "range": 50.0
+    },
+    "deep_aether:aerglow_fish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:quail": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:venomite": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:windfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:eots_controller": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:eots_segment": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:baby_zephyr": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "deep_aether:gentle_wind": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "luminous_nether:mushlin_bumper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:piglin_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:piglin_cultist_leader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:piglin_ghost": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:piglin_executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:revenant_skeleton": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:crimson_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:cultist_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:glider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:the_furnace": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:ember": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:gilded_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:soul_furnace": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:soul_ember": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:basalt_executioner": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:zombie_piglin_cultist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:zombie_piglin_cultist_leader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:mushlin_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:guzzleghast": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:spirit": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:warped_spewer_king": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "luminous_nether:pottergeist": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "luminous_nether:zombie_cultist_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0
+    },
+    "aquaculture:box_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:arrau_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:starshell_turtle": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:atlantic_cod": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:blackfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:pacific_halibut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:atlantic_halibut": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:atlantic_herring": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:pink_salmon": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:pollock": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:rainbow_trout": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:bayad": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:boulti": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:capitaine": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:synodontis": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:smallmouth_bass": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:bluegill": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:brown_trout": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:carp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:catfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:gar": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:minnow": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:muskellunge": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:perch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:arapaima": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:piranha": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:tambaqui": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:brown_shrooma": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:red_shrooma": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:jellyfish": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:red_grouper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "aquaculture:tuna": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "forestry:butterfly": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
     }
   }
 }
