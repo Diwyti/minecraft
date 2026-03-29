@@ -1,0 +1,12 @@
+[14:52:29] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[14:52:29] [INIT] Loaded plugins:
+[14:52:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[14:52:29] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[14:52:29] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[14:52:29] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[14:52:29] [INIT] - forestry.compat.kubejs.ForestryKubeJsPlugin
+[14:52:29] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[14:52:29] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[14:52:29] [INFO] Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
+[14:52:29] [INFO] Scripts loaded
+[14:52:42] [INFO] Server resource reload complete!

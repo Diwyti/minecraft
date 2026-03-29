@@ -1,0 +1,112 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "1"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "2"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "3"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "4"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "5"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "6"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "7"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "8"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "9"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "10"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "11"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "12"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "13"
+		},
+		"Name": "butchery:sand"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"blockstate": "14"
+		},
+		"Name": "butchery:sand"
+	}
+]

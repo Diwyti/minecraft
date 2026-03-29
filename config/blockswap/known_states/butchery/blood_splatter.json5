@@ -1,0 +1,1085 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "0"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "1"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "2"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "3"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "4"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "5"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "6"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "7"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "8"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "floor",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "floor",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "floor",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "floor",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "wall",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "wall",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "wall",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "wall",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"face": "ceiling",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"face": "ceiling",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"face": "ceiling",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"face": "ceiling",
+			"blockstate": "9"
+		},
+		"Name": "butchery:blood_splatter"
+	}
+]

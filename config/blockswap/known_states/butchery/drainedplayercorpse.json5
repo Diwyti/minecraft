@@ -1,0 +1,678 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "0"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "0"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "0"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "1"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "1"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "1"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "1"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "2"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "2"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "2"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "2"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "3"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "3"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "3"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "3"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "4"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "4"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "4"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "4"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "5"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "5"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "5"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "5"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "6"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "6"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "6"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "6"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "7"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "7"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "7"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "7"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "8"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "8"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "8"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "8"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "9"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "9"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "9"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "9"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "10"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "10"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "10"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "10"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "11"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "11"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "11"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "11"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "12"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "12"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "12"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "12"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "13"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "13"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "13"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "13"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "14"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "14"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "14"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "14"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "15"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "15"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "15"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "15"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "16"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "16"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "16"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "16"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "17"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "17"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "17"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "17"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "18"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "18"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "18"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "18"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "19"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "19"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "19"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "19"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "north",
+			"blockstate": "20"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "south",
+			"blockstate": "20"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "west",
+			"blockstate": "20"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facing": "east",
+			"blockstate": "20"
+		},
+		"Name": "butchery:drainedplayercorpse"
+	}
+]

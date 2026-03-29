@@ -1,0 +1,365 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "brass_cap_steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "brass_cap_steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "copper_cap_steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "copper_cap_steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "iron_cap_steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "iron_cap_steel",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "brass",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "brass",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "copper_cap_brass",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "copper_cap_brass",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "iron_cap_brass",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "iron_cap_brass",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "copper",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "copper",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "brass_cap_copper",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "brass_cap_copper",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "iron_cap_copper",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "iron_cap_copper",
+			"part": "double"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "brass_cap_steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "brass_cap_steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "copper_cap_steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "copper_cap_steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "iron_cap_steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "iron_cap_steel",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "brass",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "brass",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "copper_cap_brass",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "copper_cap_brass",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "iron_cap_brass",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "iron_cap_brass",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "copper",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "copper",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "brass_cap_copper",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "brass_cap_copper",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"style": "iron_cap_copper",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"style": "iron_cap_copper",
+			"part": "segment"
+		},
+		"Name": "railways:smokestack_woodburner_extension"
+	}
+]

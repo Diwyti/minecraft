@@ -1,0 +1,134 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "0",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "1",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "2",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "3",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "4",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "5",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "6",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "7",
+			"deluxe": "true"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "1",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "2",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "3",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "4",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "5",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "6",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"moisture": "7",
+			"deluxe": "false"
+		},
+		"Name": "dew_drop_farmland_growth:rope_hanging_garden_pot"
+	}
+]

@@ -17600,6 +17600,24 @@
       "speed_multiplier": 1.0,
       "range_multiplier": 1.0,
       "is_priority": false
+    },
+    "additionaladditions:0308": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "additionaladditions:1007": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "additionaladditions:1507": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
     }
   }
 }
