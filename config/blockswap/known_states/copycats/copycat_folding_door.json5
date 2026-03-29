@@ -11,6 +11,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -24,6 +25,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -37,6 +53,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -50,6 +81,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -63,6 +109,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -76,6 +137,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -89,6 +165,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -102,6 +193,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -115,6 +221,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -128,6 +249,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -141,6 +277,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -154,6 +305,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -167,6 +333,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -180,6 +361,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -193,6 +389,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -206,6 +417,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -219,6 +445,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -232,6 +473,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -245,6 +501,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -258,6 +529,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -271,6 +557,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -284,8 +585,51 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"visible": "true",
+			"powered": "false",
 			"open": "false",
 			"hinge": "left",
 			"half": "lower",
@@ -300,6 +644,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -313,6 +658,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -326,6 +686,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -339,6 +714,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -352,6 +742,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -365,6 +770,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -378,6 +798,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -391,6 +826,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -404,6 +854,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -417,6 +882,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -430,6 +910,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -443,6 +938,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -456,6 +966,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -469,6 +994,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -482,6 +1022,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -495,6 +1050,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -508,6 +1078,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -521,6 +1106,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -534,6 +1134,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -547,6 +1162,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -560,6 +1190,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -573,6 +1218,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -586,6 +1246,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -599,6 +1274,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -612,6 +1302,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -625,6 +1330,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -638,6 +1358,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -651,6 +1386,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -664,6 +1414,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -677,6 +1442,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -690,6 +1470,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -703,6 +1498,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -716,6 +1526,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -729,6 +1554,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -742,6 +1582,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -755,6 +1610,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -768,6 +1638,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -781,6 +1666,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -794,6 +1694,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -807,6 +1722,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -820,6 +1750,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -833,6 +1778,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -846,6 +1806,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -859,6 +1834,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -872,6 +1862,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -885,6 +1890,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -898,6 +1918,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -911,6 +1946,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -924,6 +1974,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -937,6 +2002,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -950,6 +2030,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -963,6 +2058,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -976,6 +2086,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -989,6 +2114,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1002,6 +2142,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1015,6 +2170,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1028,6 +2198,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1041,6 +2226,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1054,6 +2254,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1067,6 +2282,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1080,6 +2310,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1093,6 +2338,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1106,6 +2366,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1119,6 +2394,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1132,6 +2422,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1145,6 +2450,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1158,6 +2478,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1171,6 +2506,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1184,6 +2534,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1197,6 +2562,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1210,6 +2590,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1223,6 +2618,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1236,6 +2646,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1249,6 +2674,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1262,6 +2702,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1275,6 +2730,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1288,6 +2758,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1301,6 +2786,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1314,6 +2814,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1327,6 +2842,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1340,6 +2870,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1353,6 +2898,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1366,6 +2926,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1379,6 +2954,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1392,6 +2982,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1405,6 +3010,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1418,6 +3038,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1431,6 +3066,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1444,6 +3094,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1457,6 +3122,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1470,6 +3150,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1483,6 +3178,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1496,6 +3206,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1509,6 +3234,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1522,6 +3262,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1535,6 +3290,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1548,6 +3318,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1561,6 +3346,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1574,6 +3374,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1587,6 +3402,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1600,6 +3430,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1613,6 +3458,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1626,6 +3486,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1639,6 +3514,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1652,6 +3542,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1665,6 +3570,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "true"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1678,6 +3598,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1691,6 +3626,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1704,6 +3654,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1717,6 +3682,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1730,6 +3710,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1743,6 +3738,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1756,6 +3766,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1769,6 +3794,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1782,6 +3822,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1795,6 +3850,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1808,6 +3878,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1821,6 +3906,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1834,6 +3934,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1847,6 +3962,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1860,6 +3990,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1873,6 +4018,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1886,6 +4046,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -1899,6 +4074,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -1912,6 +4102,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -1925,6 +4130,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -1938,6 +4158,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -1951,6 +4186,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -1964,6 +4214,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -1977,6 +4242,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -1990,6 +4270,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2003,6 +4298,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2016,6 +4326,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2029,6 +4354,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2042,6 +4382,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2055,6 +4410,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2068,6 +4438,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2081,6 +4466,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2094,6 +4494,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2107,6 +4522,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2120,6 +4550,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2133,6 +4578,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2146,6 +4606,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2159,6 +4634,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2172,6 +4662,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2185,6 +4690,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2198,6 +4718,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2211,6 +4746,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2224,6 +4774,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2237,6 +4802,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2250,6 +4830,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2263,6 +4858,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2276,6 +4886,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2289,6 +4914,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2302,6 +4942,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2315,6 +4970,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2328,6 +4998,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2341,6 +5026,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2354,6 +5054,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2367,6 +5082,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2380,6 +5110,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2393,6 +5138,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2406,6 +5166,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2419,6 +5194,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2432,6 +5222,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2445,6 +5250,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2458,6 +5278,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2471,6 +5306,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2484,6 +5334,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2497,6 +5362,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2510,6 +5390,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2523,6 +5418,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2536,6 +5446,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2549,6 +5474,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2562,6 +5502,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2575,6 +5530,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2588,6 +5558,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2601,6 +5586,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2614,6 +5614,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2627,6 +5642,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2640,6 +5670,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2653,6 +5698,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2666,6 +5726,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2679,6 +5754,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2692,6 +5782,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2705,6 +5810,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2718,6 +5838,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2731,6 +5866,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2744,6 +5894,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2757,6 +5922,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2770,6 +5950,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2783,6 +5978,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2796,6 +6006,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2809,6 +6034,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2822,6 +6062,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2835,6 +6090,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2848,6 +6118,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2861,6 +6146,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2874,6 +6174,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2887,6 +6202,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -2900,6 +6230,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -2913,6 +6258,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -2926,6 +6286,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -2939,6 +6314,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -2952,6 +6342,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -2965,6 +6370,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -2978,6 +6398,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -2991,6 +6426,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -3004,6 +6454,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -3017,6 +6482,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -3030,6 +6510,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -3043,6 +6538,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -3056,6 +6566,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -3069,6 +6594,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -3082,6 +6622,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -3095,6 +6650,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -3108,6 +6678,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -3121,6 +6706,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -3134,6 +6734,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -3147,6 +6762,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -3160,6 +6790,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -3173,6 +6818,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -3186,6 +6846,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -3199,6 +6874,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -3212,6 +6902,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",
@@ -3225,6 +6930,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "true",
@@ -3238,6 +6958,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "true",
@@ -3251,6 +6986,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "true",
@@ -3264,6 +7014,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "false",
 			"open": "true",
@@ -3277,6 +7042,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "true",
 			"open": "false",
@@ -3290,6 +7070,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "false",
 			"powered": "true",
 			"open": "false",
@@ -3303,6 +7098,21 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"visible": "true",
 			"powered": "false",
 			"open": "false",
@@ -3316,6 +7126,35 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"visible": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"visible": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east",
+			"ct": "false"
+		},
+		"Name": "copycats:copycat_folding_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
 			"visible": "false",
 			"powered": "false",
 			"open": "false",

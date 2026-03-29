@@ -1,0 +1,3 @@
+#Whether to allow FakePlayers/Deployers to use the tools.
+allowFakePlayerUsage = false
+

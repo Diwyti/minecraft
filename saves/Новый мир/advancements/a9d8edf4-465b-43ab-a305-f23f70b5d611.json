@@ -1,0 +1,452 @@
+{
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_boots_recipe": "2026-03-29 18:30:45 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2026-03-29 18:30:45 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermolith": {
+    "criteria": {
+      "has_recipe": "2026-03-29 18:30:45 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "has_recipe": "2026-03-29 18:30:45 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/chameleon_armor": {
+    "criteria": {
+      "has_chest_recipe": "2026-03-29 18:30:45 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "has_recipe": "2026-03-29 18:30:45 +0500"
+    },
+    "done": true
+  },
+  "overgeared:root": {
+    "criteria": {
+      "Trigger": "2026-03-29 18:30:52 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2026-03-29 18:30:52 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2026-03-29 18:35:39 +0500",
+      "minecraft:frozen_river": "2026-03-29 19:17:08 +0500",
+      "minecraft:beach": "2026-03-29 18:38:30 +0500",
+      "minecraft:snowy_plains": "2026-03-29 19:24:43 +0500",
+      "minecraft:dripstone_caves": "2026-03-29 19:22:50 +0500",
+      "minecraft:snowy_taiga": "2026-03-29 19:24:03 +0500",
+      "minecraft:cold_ocean": "2026-03-29 18:39:08 +0500",
+      "minecraft:forest": "2026-03-29 18:30:53 +0500",
+      "minecraft:frozen_ocean": "2026-03-29 19:17:01 +0500",
+      "minecraft:old_growth_spruce_taiga": "2026-03-29 19:23:33 +0500",
+      "minecraft:snowy_beach": "2026-03-29 19:17:06 +0500",
+      "minecraft:meadow": "2026-03-29 19:47:21 +0500",
+      "minecraft:plains": "2026-03-29 19:21:57 +0500"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-03-29 18:30:53 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_mosaic": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-03-29 18:36:17 +0500",
+      "wild_strawberry": "2026-03-29 18:36:17 +0500",
+      "corn": "2026-03-29 18:36:17 +0500",
+      "onion": "2026-03-29 18:36:17 +0500",
+      "wild_corn": "2026-03-29 18:36:17 +0500",
+      "wild_ribwort": "2026-03-29 18:36:17 +0500",
+      "strawberry": "2026-03-29 18:36:17 +0500",
+      "wild_nettle": "2026-03-29 18:36:17 +0500",
+      "barley": "2026-03-29 18:36:17 +0500",
+      "tomato": "2026-03-29 18:36:17 +0500",
+      "lettuce": "2026-03-29 18:36:17 +0500",
+      "wild_lettuce": "2026-03-29 18:36:17 +0500",
+      "wild_tomatoes": "2026-03-29 18:36:17 +0500",
+      "oat_seeds": "2026-03-29 18:36:17 +0500",
+      "tomato_seeds": "2026-03-29 18:36:17 +0500",
+      "barley_seeds": "2026-03-29 18:36:17 +0500",
+      "strawberry_seeds": "2026-03-29 18:36:17 +0500",
+      "lettuce_seeds": "2026-03-29 18:36:17 +0500",
+      "kernels": "2026-03-29 18:36:17 +0500",
+      "wild_barley": "2026-03-29 18:36:17 +0500",
+      "wild_onion": "2026-03-29 18:36:17 +0500",
+      "wild_oat": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-29 18:36:17 +0500"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-29 19:21:57 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2026-03-29 19:17:22 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/compression_blast_miner": {
+    "criteria": {
+      "item": "2026-03-29 19:15:04 +0500"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2026-03-29 19:14:55 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/polished_rock_salt": {
+    "criteria": {
+      "has_item": "2026-03-29 19:48:45 +0500"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2026-03-29 19:55:26 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "axe": "2026-03-29 19:36:40 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "extractor_ruin": "2026-03-29 19:17:52 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/place_holosphere": {
+    "criteria": {
+      "use": "2026-03-29 19:35:26 +0500"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2026-03-29 19:54:20 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_bolt": {
+    "criteria": {
+      "forged_bolt": "2026-03-29 19:28:37 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/use_bolt": {
+    "criteria": {
+      "tool": "2026-03-29 19:31:17 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/cinnabar_block": {
+    "criteria": {
+      "has_item": "2026-03-29 19:15:44 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2026-03-29 19:14:54 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-03-29 19:30:50 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_craft": {
+    "criteria": {
+      "craft": "2026-03-29 19:35:00 +0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/graffiti": {
+    "criteria": {
+      "has_item": "2026-03-29 19:50:15 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2026-03-29 19:14:55 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rock_salt_block": {
+    "criteria": {
+      "has_item": "2026-03-29 19:48:16 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/purple_drink": {
+    "criteria": {
+      "item": "2026-03-29 19:51:15 +0500"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ambitious_explorer": {
+    "criteria": {
+      "entered_watch_tower": "2026-03-29 19:24:27 +0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-03-29 19:37:32 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2026-03-29 19:37:32 +0500",
+      "minecraft:slime": "2026-03-29 19:38:16 +0500",
+      "minecraft:zombie": "2026-03-29 19:45:01 +0500"
+    },
+    "done": false
+  },
+  "additionaladditions:obtain_scoped_crossbow": {
+    "criteria": {
+      "obtain": "2026-03-29 19:14:14 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2026-03-29 19:30:35 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_watch_tower": "2026-03-29 19:24:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2026-03-29 19:37:32 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rock_salt_bricks": {
+    "criteria": {
+      "has_item": "2026-03-29 19:48:45 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-03-29 19:51:15 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-03-29 19:30:35 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2026-03-29 19:36:31 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2026-03-29 19:14:31 +0500"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2026-03-29 19:20:46 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

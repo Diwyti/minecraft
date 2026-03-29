@@ -11,6 +11,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -22,6 +23,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -33,6 +47,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -44,6 +71,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -55,6 +95,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -66,6 +119,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -77,6 +143,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -88,6 +167,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -99,6 +191,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -110,6 +215,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -121,7 +239,44 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
 			"open": "false",
 			"hinge": "left",
 			"half": "lower",
@@ -135,6 +290,7 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -146,6 +302,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -157,6 +326,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -168,6 +350,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -179,6 +374,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -190,6 +398,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -201,6 +422,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -212,6 +446,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -223,6 +470,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -234,6 +494,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -245,6 +518,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -256,6 +542,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -267,6 +566,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -278,6 +590,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -289,6 +614,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -300,6 +638,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -311,6 +662,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -322,6 +686,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -333,6 +710,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -344,6 +734,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -355,6 +758,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -366,6 +782,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -377,6 +806,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -388,6 +830,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -399,6 +854,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -410,6 +878,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -421,6 +902,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -432,6 +926,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -443,6 +950,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -454,6 +974,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -465,6 +998,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -476,6 +1022,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -487,6 +1046,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -498,6 +1070,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -509,6 +1094,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -520,6 +1118,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -531,6 +1142,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -542,6 +1166,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -553,6 +1190,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -564,6 +1214,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -575,6 +1238,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -586,6 +1262,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -597,6 +1286,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -608,6 +1310,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -619,6 +1334,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -630,6 +1358,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -641,6 +1382,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -652,6 +1406,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -663,6 +1430,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -674,6 +1454,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -685,6 +1478,19 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -696,6 +1502,31 @@ to make editing this file much easier.
 	{
 		// Properties define the state of this block/fluid.
 		"Properties": {
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "quark:azalea_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",

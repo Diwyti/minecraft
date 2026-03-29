@@ -1,0 +1,16 @@
+filename = 'divein-0.1.12-1.20.1-forge.jar'
+name = 'Dive in'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b0dbb9acfb286db392b537598b97a4f973a738cd339137da5c1c004f251994ffc85ad391ba89794fa2093b2386e1061b0327e8fd5b8af73a2accbdb4242f38e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/m0RMHIS6/versions/tjx45pLC/divein-0.1.12-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'm0RMHIS6'
+version = 'tjx45pLC'

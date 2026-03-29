@@ -1,9 +1,9 @@
-[17:43:30] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[17:43:30] [INIT] Loaded plugins:
-[17:43:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[17:43:30] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[17:43:30] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
-[17:43:30] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[17:43:31] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[17:43:31] [INFO] Loaded script startup_scripts:example.js in 0.037 s
-[17:43:31] [INFO] Loaded 1/1 KubeJS startup scripts in 0.591 s with 0 errors and 0 warnings
+[19:10:25] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:10:25] [INIT] Loaded plugins:
+[19:10:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:10:25] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[19:10:25] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[19:10:25] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[19:10:26] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[19:10:26] [INFO] Loaded script startup_scripts:example.js in 0.042 s
+[19:10:26] [INFO] Loaded 1/1 KubeJS startup scripts in 0.712 s with 0 errors and 0 warnings

@@ -1035,6 +1035,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "spelunkery:dust_bunny": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:bat": {
       "enabled": false,
       "speed": 1.0,

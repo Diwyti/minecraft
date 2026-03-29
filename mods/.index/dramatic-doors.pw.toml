@@ -1,0 +1,16 @@
+filename = 'DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar'
+name = 'Dramatic Doors'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '77ffed15d6738a93fe862c113121ab1432d91fb5f6053fd9777ae65f07c090a08d7bc9454efa5375c9461c3bf919fa9aa540ee0c40044c8310570d97d934035d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/aQ7h7gal/versions/l7Qcp40H/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar'
+
+[update.modrinth]
+mod-id = 'aQ7h7gal'
+version = 'l7Qcp40H'

@@ -307,5 +307,31 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2026-03-29 17:52:56 +0500"
+    },
+    "done": false
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2026-03-29 17:50:29 +0500"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2026-03-29 17:50:29 +0500",
+      "deep_aether:mystic_aerglow_forest": "2026-03-29 17:50:46 +0500",
+      "aether:skyroot_forest": "2026-03-29 17:50:32 +0500"
+    },
+    "done": false
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2026-03-29 17:50:29 +0500"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

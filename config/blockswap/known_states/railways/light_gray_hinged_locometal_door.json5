@@ -12,6 +12,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -24,6 +25,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -36,6 +38,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -48,6 +77,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -60,6 +90,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -72,6 +129,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -84,6 +142,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -96,6 +181,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -108,6 +194,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -120,6 +233,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -132,6 +246,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -144,6 +285,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -156,6 +298,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -168,6 +337,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -180,6 +350,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -192,6 +389,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -204,6 +402,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -216,6 +441,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -228,6 +454,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -240,6 +493,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -252,6 +506,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -264,6 +545,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -276,6 +558,59 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "false",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -291,6 +626,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -303,6 +639,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -315,6 +652,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -327,6 +691,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -339,6 +704,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -351,6 +743,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -363,6 +756,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -375,6 +795,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -387,6 +808,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "north"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -399,6 +847,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -411,6 +860,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -423,6 +899,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -435,6 +912,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -447,6 +951,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -459,6 +964,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -471,6 +1003,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -483,6 +1016,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -495,6 +1055,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -507,6 +1068,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -519,6 +1107,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -531,6 +1120,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -543,6 +1159,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -555,6 +1172,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -567,6 +1211,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -579,6 +1224,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -591,6 +1263,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -603,6 +1276,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -615,6 +1315,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -627,6 +1328,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -639,6 +1367,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -651,6 +1380,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -663,6 +1419,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -675,6 +1432,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -687,6 +1471,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -699,6 +1484,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -711,6 +1523,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -723,6 +1536,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -735,6 +1575,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -747,6 +1588,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -759,6 +1627,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -771,6 +1640,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "south"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -783,6 +1679,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -795,6 +1692,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -807,6 +1731,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -819,6 +1744,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -831,6 +1783,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -843,6 +1796,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -855,6 +1835,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -867,6 +1848,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -879,6 +1887,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -891,6 +1900,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -903,6 +1939,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -915,6 +1952,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -927,6 +1991,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -939,6 +2004,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -951,6 +2043,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -963,6 +2056,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -975,6 +2095,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -987,6 +2108,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -999,6 +2147,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -1011,6 +2160,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -1023,6 +2199,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -1035,6 +2212,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -1047,6 +2251,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -1059,6 +2264,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -1071,6 +2303,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -1083,6 +2316,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -1095,6 +2355,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -1107,6 +2368,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -1119,6 +2407,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -1131,6 +2420,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -1143,6 +2459,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -1155,6 +2472,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "west"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -1167,6 +2511,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -1179,6 +2524,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -1191,6 +2563,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -1203,6 +2576,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -1215,6 +2615,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -1227,6 +2628,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -1239,6 +2667,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -1251,6 +2680,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -1263,6 +2719,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -1275,6 +2732,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -1287,6 +2771,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -1299,6 +2784,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -1311,6 +2823,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -1323,6 +2836,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -1335,6 +2875,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -1347,6 +2888,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "upper",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -1359,6 +2927,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "left",
@@ -1371,6 +2940,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -1383,6 +2979,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "left",
@@ -1395,6 +2992,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -1407,6 +3031,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "left",
@@ -1419,6 +3044,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -1431,6 +3083,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "left",
@@ -1443,6 +3096,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "left",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -1455,6 +3135,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "true",
 			"hinge": "right",
@@ -1467,6 +3148,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -1479,6 +3187,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "true",
 			"hinge": "right",
@@ -1491,6 +3200,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "true",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -1503,6 +3239,7 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
 			"powered": "true",
 			"open": "false",
 			"hinge": "right",
@@ -1515,6 +3252,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
+			"powered": "true",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "true",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",
@@ -1527,6 +3291,33 @@ to make editing this file much easier.
 		// Properties define the state of this block/fluid.
 		"Properties": {
 			"windowed": "false",
+			"waterlogged": "true",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "true",
+			"waterlogged": "false",
+			"powered": "false",
+			"open": "false",
+			"hinge": "right",
+			"half": "lower",
+			"facing": "east"
+		},
+		"Name": "railways:light_gray_hinged_locometal_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"windowed": "false",
+			"waterlogged": "false",
 			"powered": "false",
 			"open": "false",
 			"hinge": "right",

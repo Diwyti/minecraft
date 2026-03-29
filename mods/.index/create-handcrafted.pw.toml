@@ -1,0 +1,16 @@
+filename = 'create_handcrafted-1.0.0.jar'
+name = 'Create: Handcrafted'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b32f33138385f530ee71fe6839dab78b1d3d112183f94190471c906fb82f5209aaf1dbb4b945dc2eb32a31f6ef3e6d7dac1d26354cdd36b1c91020de26e2cd3e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wT60nf59/versions/qil7SYFz/create_handcrafted-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'wT60nf59'
+version = 'qil7SYFz'
