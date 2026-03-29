@@ -1,0 +1,1301 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "north",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "north",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "north",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "north",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "north",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "south",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "south",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "south",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "south",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "south",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "south",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "west",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "west",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "west",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "west",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "west",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "west",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "east",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "east",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "east",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "east",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "east",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "east",
+			"expanded": "none"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "north",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "north",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "north",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "north",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "north",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "north",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "south",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "south",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "south",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "south",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "south",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "south",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "west",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "west",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "west",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "west",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "west",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "west",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "east",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "east",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "east",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "east",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "east",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "east",
+			"expanded": "up"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "north",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "north",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "north",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "north",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "north",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "north",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "south",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "south",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "south",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "south",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "south",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "south",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "west",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "west",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "west",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "west",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "west",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "west",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "east",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "east",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "east",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "east",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "east",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "east",
+			"expanded": "down"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "north",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "north",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "north",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "north",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "north",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "north",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "south",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "south",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "south",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "south",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "south",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "south",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "west",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "west",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "west",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "west",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "west",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "west",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "east",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "east",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "east",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "east",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "east",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "east",
+			"expanded": "left"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "north",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "north",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "north",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "north",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "north",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "north",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "south",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "south",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "south",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "south",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "south",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "south",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "west",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "west",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "west",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "west",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "west",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "west",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "east",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "east",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "east",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "east",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "east",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "east",
+			"expanded": "right"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "north",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "north",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "north",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "north",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "north",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "north",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "south",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "south",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "south",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "south",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "south",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "south",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "west",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "west",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "west",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "west",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "west",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "west",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "0",
+			"facing": "east",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "1",
+			"facing": "east",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "2",
+			"facing": "east",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "3",
+			"facing": "east",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "4",
+			"facing": "east",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"honey_level": "5",
+			"facing": "east",
+			"expanded": "back"
+		},
+		"Name": "productivebees:advanced_wisteria_canvas_beehive"
+	}
+]
