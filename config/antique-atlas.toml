@@ -67,3 +67,4 @@ emptyHandling = "EMPTY"
 		"minecraft:overworld" = 8
 		"minecraft:the_nether" = 1
 		"minecraft:the_end" = 0
+		"aether:the_aether" = 0

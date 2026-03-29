@@ -1,0 +1,16 @@
+filename = 'butchercraft-2.4.1.jar'
+name = 'Butchercraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2675defe123087d6cefdd0ddc7297ee8fb1face6ff8da624e3ee4df715ff0dd555e3df894caebb33585858ecd1c33f96e6f1d4b8918e666e072c931a328cc056'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MT2Xm0ih/versions/Ef6GKQqY/butchercraft-2.4.1.jar'
+
+[update.modrinth]
+mod-id = 'MT2Xm0ih'
+version = 'Ef6GKQqY'
