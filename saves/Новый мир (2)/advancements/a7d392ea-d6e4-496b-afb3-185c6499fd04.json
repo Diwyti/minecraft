@@ -1,0 +1,320 @@
+{
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_boots_recipe": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_mosaic": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermolith": {
+    "criteria": {
+      "has_recipe": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "has_recipe": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/chameleon_armor": {
+    "criteria": {
+      "has_legs_recipe": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "has_recipe": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-03-28 06:41:30 +0100",
+      "wild_strawberry": "2026-03-28 06:41:30 +0100",
+      "corn": "2026-03-28 06:41:30 +0100",
+      "onion": "2026-03-28 06:41:30 +0100",
+      "wild_corn": "2026-03-28 06:41:30 +0100",
+      "wild_ribwort": "2026-03-28 06:41:30 +0100",
+      "strawberry": "2026-03-28 06:41:30 +0100",
+      "wild_nettle": "2026-03-28 06:41:30 +0100",
+      "barley": "2026-03-28 06:41:30 +0100",
+      "tomato": "2026-03-28 06:41:30 +0100",
+      "lettuce": "2026-03-28 06:41:30 +0100",
+      "wild_lettuce": "2026-03-28 06:41:30 +0100",
+      "wild_tomatoes": "2026-03-28 06:41:30 +0100",
+      "oat_seeds": "2026-03-28 06:41:30 +0100",
+      "tomato_seeds": "2026-03-28 06:41:30 +0100",
+      "barley_seeds": "2026-03-28 06:41:30 +0100",
+      "strawberry_seeds": "2026-03-28 06:41:30 +0100",
+      "lettuce_seeds": "2026-03-28 06:41:30 +0100",
+      "kernels": "2026-03-28 06:41:30 +0100",
+      "wild_barley": "2026-03-28 06:41:30 +0100",
+      "wild_onion": "2026-03-28 06:41:30 +0100",
+      "wild_oat": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_planks": {
+    "criteria": {
+      "has_ingredient": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-03-28 06:41:30 +0100"
+    },
+    "done": true
+  },
+  "overgeared:root": {
+    "criteria": {
+      "Trigger": "2026-03-28 06:41:37 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2026-03-28 06:41:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_pine_taiga": "2026-03-28 06:48:35 +0100",
+      "minecraft:taiga": "2026-03-28 06:46:33 +0100",
+      "minecraft:birch_forest": "2026-03-28 07:27:59 +0100",
+      "minecraft:beach": "2026-03-28 06:42:35 +0100",
+      "minecraft:dark_forest": "2026-03-28 06:41:38 +0100",
+      "minecraft:river": "2026-03-28 06:49:41 +0100",
+      "minecraft:stony_shore": "2026-03-28 06:49:19 +0100",
+      "minecraft:cold_ocean": "2026-03-28 06:49:16 +0100",
+      "minecraft:forest": "2026-03-28 06:46:23 +0100",
+      "minecraft:ocean": "2026-03-28 06:49:17 +0100",
+      "minecraft:old_growth_spruce_taiga": "2026-03-28 06:48:42 +0100",
+      "minecraft:old_growth_birch_forest": "2026-03-28 06:49:35 +0100",
+      "minecraft:plains": "2026-03-28 06:49:44 +0100"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-03-28 06:41:38 +0100"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2026-03-28 06:42:16 +0100"
+    },
+    "done": true
+  },
+  "butchery:heads_up": {
+    "criteria": {
+      "heads_up_0": "2026-03-28 06:42:21 +0100"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2026-03-28 06:42:23 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-03-28 06:43:45 +0100"
+    },
+    "done": true
+  },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2026-03-28 06:44:09 +0100"
+    },
+    "done": true
+  },
+  "deep_aether:explore_aether": {
+    "criteria": {
+      "aether:skyroot_grove": "2026-03-28 06:44:39 +0100",
+      "deep_aether:mystic_aerglow_forest": "2026-03-28 06:44:29 +0100",
+      "aether:skyroot_forest": "2026-03-28 06:44:09 +0100"
+    },
+    "done": false
+  },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2026-03-28 06:44:09 +0100"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-28 06:49:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2026-03-28 07:14:57 +0100"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2026-03-28 07:17:51 +0100"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/place_water_sprinkler": {
+    "criteria": {
+      "water_sprinkler": "2026-03-28 07:22:14 +0100"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2026-03-29 04:58:28 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_birch": "2026-03-29 04:58:28 +0200"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2026-03-29 04:59:00 +0200"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2026-03-29 05:11:31 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

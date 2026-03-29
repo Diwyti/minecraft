@@ -1,5 +1,37 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "productivebees:guide": {
+      "viewedEntries": [
+        "productivebees:bees/hive/diamond",
+        "productivebees:bees/wild/ender",
+        "productivebees:bees/hive/lapis",
+        "productivebees:bees/solitary/blue_banded",
+        "productivebees:bees/hive/redstone",
+        "productivebees:bees/solitary/chocolate_mining",
+        "productivebees:bees/wild/glowing",
+        "productivebees:blocks/hive",
+        "productivebees:hives/advanced_hives",
+        "productivebees:items/combs",
+        "productivebees:items/nest_locator",
+        "productivebees:items/honey_treat",
+        "productivebees:genetics/transferring",
+        "productivebees:hives/dragon_egg_hive",
+        "productivebees:hives/nests",
+        "productivebees:blocks/centrifuge"
+      ],
+      "bookmarks": [
+        {
+          "entry": "productivebees:bees/wild/ender",
+          "page": 0
+        },
+        {
+          "entry": "productivebees:bees/hive/diamond",
+          "page": 0
+        }
+      ],
+      "completedManualQuests": []
+    }
+  }
 }

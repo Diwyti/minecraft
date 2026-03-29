@@ -639,6 +639,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:bumble_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:glow_squid": {
       "enabled": false,
       "speed": 1.0,
@@ -657,6 +663,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:creeper_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:horse": {
       "enabled": false,
       "speed": 1.0,
@@ -669,13 +681,31 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:digger_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:polar_bear": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:green_carpenter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "aether:sheepuff": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:dye_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -706,6 +736,12 @@
       "threshold": -20.0
     },
     "minecraft:sheep": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:cupid_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -742,6 +778,12 @@
       "threshold": -20.0
     },
     "quark:foxhound": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:neon_cuckoo_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -819,6 +861,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:lumber_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:bee": {
       "enabled": false,
       "speed": 1.0,
@@ -862,6 +910,12 @@
       "threshold": -20.0
     },
     "wildernature:red_wolf": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:yellow_black_carpenter_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -921,6 +975,24 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:mason_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:hoarder_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:reed_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "aquaculture:box_turtle": {
       "enabled": false,
       "speed": 1.0,
@@ -957,6 +1029,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:rancher_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:bat": {
       "enabled": false,
       "speed": 1.0,
@@ -981,6 +1059,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:sweat_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "vinery:mule": {
       "enabled": false,
       "speed": 1.0,
@@ -999,6 +1083,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:blue_banded_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:frog": {
       "enabled": false,
       "speed": 1.0,
@@ -1006,6 +1096,12 @@
       "threshold": -20.0
     },
     "crittersandcompanions:shima_enaga": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:nomad_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -1029,6 +1125,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:ashy_mining_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "aquaculture:arrau_turtle": {
       "enabled": false,
       "speed": 1.0,
@@ -1041,6 +1143,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:collector_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:mule": {
       "enabled": false,
       "speed": 1.0,
@@ -1048,6 +1156,12 @@
       "threshold": -20.0
     },
     "wildernature:flamingo": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:chocolate_mining_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -1119,6 +1233,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:configurable_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:cat": {
       "enabled": false,
       "speed": 1.0,
@@ -1144,6 +1264,18 @@
       "threshold": -20.0
     },
     "minecraft:fox": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:farmer_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:resin_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,
@@ -1179,6 +1311,12 @@
       "range": 50.0,
       "threshold": -20.0
     },
+    "productivebees:quarry_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
     "minecraft:chicken": {
       "enabled": false,
       "speed": 1.0,
@@ -1204,6 +1342,12 @@
       "threshold": -20.0
     },
     "croaks:croak_soldier": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 50.0,
+      "threshold": -20.0
+    },
+    "productivebees:leafcutter_bee": {
       "enabled": false,
       "speed": 1.0,
       "range": 50.0,

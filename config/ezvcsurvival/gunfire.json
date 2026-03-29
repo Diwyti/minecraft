@@ -1325,6 +1325,126 @@
       "enabled": false,
       "speed": 1.0,
       "range": 40.0
+    },
+    "productivebees:dye_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:lumber_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:quarry_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:rancher_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:collector_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:hoarder_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:farmer_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:creeper_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:cupid_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:configurable_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:ashy_mining_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:blue_banded_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:green_carpenter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:yellow_black_carpenter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:chocolate_mining_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:digger_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:leafcutter_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:mason_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:neon_cuckoo_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:nomad_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:reed_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:resin_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:sweat_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
+    },
+    "productivebees:bumble_bee": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 40.0
     }
   }
 }
