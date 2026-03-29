@@ -16,7 +16,34 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "examplemod:example_item"
+    "alexscaves:dreadbow",
+    "alexscaves:ortholance",
+    "alexscaves:magic_conch",
+    "alexscaves:sea_staff", 
+    "alexscaves:submarine",
+    "alexscaves:tremorzilla_egg",
+    "alexscaves:uranium_rod",
+    "alexscaves:siren_light",
+    "alexscaves:nuclear_siren",
+    "alexscaves:raygun",
+    "alexscaves:charred_remnant",
+    "alexscaves:fissile_core",
+    "alexscaves:nuclear_furnace_component",
+    "alexscaves:hazmat_boots",
+    "alexscaves:hazmat_chestplate",
+    "alexscaves:hazmat_leggings",
+    "alexscaves:hazmat_mask",
+    "alexscaves:hazmat_warning_block",
+    "alexscaves:hazmat_block",
+    "alexscaves:hazmat_skull_block",
+    "alexscaves:spelunkie",
+    "alexscaves:slam",
+    "alexscaves:immortal_embryo",
+    "alexscaves:polymer_plate",
+    "alexscaves:depth_charge",
+    "alexscaves:ominous_catalyst",
+    "alexscaves:extinction_spear",
+    "alexscaves:tectonic_shard"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.

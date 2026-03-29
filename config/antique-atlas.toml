@@ -66,5 +66,5 @@ emptyHandling = "EMPTY"
 	[dimensions.scales]
 		"minecraft:overworld" = 8
 		"minecraft:the_nether" = 1
-		"minecraft:the_end" = 0
 		"aether:the_aether" = 0
+		"minecraft:the_end" = 0

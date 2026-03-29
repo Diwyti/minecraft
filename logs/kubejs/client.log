@@ -1,10 +1,10 @@
-[16:34:07] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[16:34:07] [INIT] Loaded plugins:
-[16:34:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[16:34:07] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[16:34:07] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
-[16:34:07] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[16:34:07] [INFO] example.js#5: Hello, World! (Loaded client scripts)
-[16:34:07] [INFO] Loaded script client_scripts:example.js in 0.0 s
-[16:34:07] [INFO] Loaded 1/1 KubeJS client scripts in 0.015 s with 0 errors and 0 warnings
-[16:34:19] [INFO] Client resource reload complete!
+[17:43:31] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:43:31] [INIT] Loaded plugins:
+[17:43:31] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:43:31] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[17:43:31] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[17:43:31] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[17:43:31] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[17:43:31] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[17:43:31] [INFO] Loaded 1/1 KubeJS client scripts in 0.014 s with 0 errors and 0 warnings
+[17:43:41] [INFO] Client resource reload complete!
