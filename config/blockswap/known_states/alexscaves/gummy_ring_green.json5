@@ -1,0 +1,329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "true",
+			"facing": "north"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "true",
+			"facing": "north"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "true",
+			"facing": "north"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "false",
+			"facing": "north"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "false",
+			"facing": "north"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "false",
+			"facing": "north"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "true",
+			"facing": "east"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "true",
+			"facing": "east"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "true",
+			"facing": "east"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "false",
+			"facing": "east"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "false",
+			"facing": "east"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "false",
+			"facing": "east"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "true",
+			"facing": "south"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "true",
+			"facing": "south"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "true",
+			"facing": "south"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "false",
+			"facing": "south"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "false",
+			"facing": "south"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "false",
+			"facing": "south"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "true",
+			"facing": "west"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "true",
+			"facing": "west"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "true",
+			"facing": "west"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "false",
+			"facing": "west"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "false",
+			"facing": "west"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "false",
+			"facing": "west"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "true",
+			"facing": "up"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "true",
+			"facing": "up"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "true",
+			"facing": "up"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "false",
+			"facing": "up"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "false",
+			"facing": "up"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "true",
+			"facing": "down"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "true",
+			"facing": "down"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "true",
+			"facing": "down"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "0",
+			"floating": "false",
+			"facing": "down"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "1",
+			"floating": "false",
+			"facing": "down"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"liquid_logged": "2",
+			"floating": "false",
+			"facing": "down"
+		},
+		"Name": "alexscaves:gummy_ring_green"
+	}
+]

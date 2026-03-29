@@ -1,0 +1,16 @@
+filename = 'additionaladditions-6.0.1.jar'
+name = 'Additional Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dfcab33380354be820503671a7faeff83b76cc3778612493aa6b2820705fcd52b830ed5aca41c0cd1e2c6b6c7447e489dbb9365e3120c882cfa5274567ab9814'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/R4TvILfj/versions/r8V0VbWA/additionaladditions-6.0.1.jar'
+
+[update.modrinth]
+mod-id = 'R4TvILfj'
+version = 'r8V0VbWA'

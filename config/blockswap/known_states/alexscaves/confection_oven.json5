@@ -1,0 +1,329 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "north",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "east",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "east",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "south",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "south",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "west",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "west",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "up",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "up",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "down",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "down",
+			"cookstate": "0"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "north",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "north",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "east",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "east",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "south",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "south",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "west",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "west",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "up",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "up",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "down",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "down",
+			"cookstate": "1"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "north",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "north",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "east",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "east",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "south",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "south",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "west",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "west",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "up",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "up",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "true",
+			"facing": "down",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"powered": "false",
+			"facing": "down",
+			"cookstate": "2"
+		},
+		"Name": "alexscaves:confection_oven"
+	}
+]

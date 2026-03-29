@@ -1,0 +1,16 @@
+filename = 'YouShallNotSpawn-forge-1.20.x-2.0.2.jar'
+name = 'You Shall Not Spawn!'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ba083bf3c1656cbd3034ae67df977c867a505c508caa0e3af33ac81b55b377f70f91362bb5387f881edf2a7f37cb28d290e8163f2c5db16125ca80b5390c8c1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EjXcpmEA/versions/cOtszKAy/YouShallNotSpawn-forge-1.20.x-2.0.2.jar'
+
+[update.modrinth]
+mod-id = 'EjXcpmEA'
+version = 'cOtszKAy'
