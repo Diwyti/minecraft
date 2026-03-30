@@ -58,6 +58,7 @@
       "minecraft:cold_ocean": "2026-03-29 18:39:08 +0500",
       "minecraft:forest": "2026-03-29 18:30:53 +0500",
       "minecraft:frozen_ocean": "2026-03-29 19:17:01 +0500",
+      "minecraft:deep_frozen_ocean": "2026-03-30 09:00:08 +0500",
       "minecraft:old_growth_spruce_taiga": "2026-03-29 19:23:33 +0500",
       "minecraft:snowy_beach": "2026-03-29 19:17:06 +0500",
       "minecraft:meadow": "2026-03-29 19:47:21 +0500",
@@ -224,81 +225,15 @@
     },
     "done": true
   },
-  "vinery:main/fruits_of_the_field": {
+  "additionaladditions:obtain_scoped_crossbow": {
     "criteria": {
-      "fruits_of_the_field": "2026-03-29 19:21:57 +0500"
+      "obtain": "2026-03-29 19:14:14 +0500"
     },
     "done": true
   },
-  "tetra:spelunking/root": {
+  "cold_sweat:extreme_temps": {
     "criteria": {
-      "spelunking": "2026-03-29 19:17:22 +0500"
-    },
-    "done": true
-  },
-  "spelunkery:spelunkery/compression_blast_miner": {
-    "criteria": {
-      "item": "2026-03-29 19:15:04 +0500"
-    },
-    "done": true
-  },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2026-03-29 19:14:55 +0500"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/polished_rock_salt": {
-    "criteria": {
-      "has_item": "2026-03-29 19:48:45 +0500"
-    },
-    "done": true
-  },
-  "tetra:recipes/planks": {
-    "criteria": {
-      "got_wood": "2026-03-29 19:55:26 +0500"
-    },
-    "done": true
-  },
-  "tetra:upgrades/tool_upgrade": {
-    "criteria": {
-      "axe": "2026-03-29 19:36:40 +0500"
-    },
-    "done": true
-  },
-  "tetra:spelunking/ancient_ruins": {
-    "criteria": {
-      "extractor_ruin": "2026-03-29 19:17:52 +0500"
-    },
-    "done": true
-  },
-  "tetra:upgrades/place_holosphere": {
-    "criteria": {
-      "use": "2026-03-29 19:35:26 +0500"
-    },
-    "done": true
-  },
-  "quark:throw_pickarang": {
-    "criteria": {
-      "throw_pickarang": "2026-03-29 19:54:20 +0500"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_bolt": {
-    "criteria": {
-      "forged_bolt": "2026-03-29 19:28:37 +0500"
-    },
-    "done": true
-  },
-  "tetra:spelunking/use_bolt": {
-    "criteria": {
-      "tool": "2026-03-29 19:31:17 +0500"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/cinnabar_block": {
-    "criteria": {
-      "has_item": "2026-03-29 19:15:44 +0500"
+      "requirement": "2026-03-29 19:14:31 +0500"
     },
     "done": true
   },
@@ -308,21 +243,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "tetra:recipes/string": {
     "criteria": {
-      "blaze_rod": "2026-03-29 19:30:50 +0500"
-    },
-    "done": true
-  },
-  "tetra:spelunking/hammer_craft": {
-    "criteria": {
-      "craft": "2026-03-29 19:35:00 +0500"
-    },
-    "done": true
-  },
-  "immersive_paintings:misc/graffiti": {
-    "criteria": {
-      "has_item": "2026-03-29 19:50:15 +0500"
+      "got_string": "2026-03-29 19:14:55 +0500"
     },
     "done": true
   },
@@ -332,15 +255,39 @@
     },
     "done": true
   },
-  "spelunkery:recipes/rock_salt_block": {
+  "spelunkery:spelunkery/compression_blast_miner": {
     "criteria": {
-      "has_item": "2026-03-29 19:48:16 +0500"
+      "item": "2026-03-29 19:15:04 +0500"
     },
     "done": true
   },
-  "spelunkery:spelunkery/purple_drink": {
+  "spelunkery:recipes/cinnabar_block": {
     "criteria": {
-      "item": "2026-03-29 19:51:15 +0500"
+      "has_item": "2026-03-29 19:15:44 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2026-03-29 19:17:22 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "extractor_ruin": "2026-03-29 19:17:52 +0500"
+    },
+    "done": true
+  },
+  "immersive_paintings:misc/glow_graffiti": {
+    "criteria": {
+      "has_item": "2026-03-29 19:20:46 +0500"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-29 19:21:57 +0500"
     },
     "done": true
   },
@@ -349,6 +296,90 @@
       "entered_watch_tower": "2026-03-29 19:24:27 +0500"
     },
     "done": false
+  },
+  "dungeons_enhanced:root": {
+    "criteria": {
+      "entered_watch_tower": "2026-03-29 19:24:27 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/root": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/repairs": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/double_headed": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "tetra:story/more_upgrades": {
+    "criteria": {
+      "hammer": "2026-03-29 19:28:17 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_bolt": {
+    "criteria": {
+      "forged_bolt": "2026-03-29 19:28:37 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2026-03-29 19:30:35 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-03-29 19:30:35 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-03-29 19:30:50 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/use_bolt": {
+    "criteria": {
+      "tool": "2026-03-29 19:31:17 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/hammer_craft": {
+    "criteria": {
+      "craft": "2026-03-29 19:35:00 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/place_holosphere": {
+    "criteria": {
+      "use": "2026-03-29 19:35:26 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2026-03-29 19:36:31 +0500"
+    },
+    "done": true
+  },
+  "tetra:upgrades/tool_upgrade": {
+    "criteria": {
+      "axe": "2026-03-29 19:36:40 +0500"
+    },
+    "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -364,33 +395,21 @@
     },
     "done": false
   },
-  "additionaladditions:obtain_scoped_crossbow": {
-    "criteria": {
-      "obtain": "2026-03-29 19:14:14 +0500"
-    },
-    "done": true
-  },
-  "spelunkery:recipes/diamond": {
-    "criteria": {
-      "has_item": "2026-03-29 19:30:35 +0500"
-    },
-    "done": true
-  },
-  "tetra:upgrades/root": {
-    "criteria": {
-      "hammer": "2026-03-29 19:28:17 +0500"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:root": {
-    "criteria": {
-      "entered_watch_tower": "2026-03-29 19:24:27 +0500"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:creeper": "2026-03-29 19:37:32 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rock_salt_block": {
+    "criteria": {
+      "has_item": "2026-03-29 19:48:16 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/polished_rock_salt": {
+    "criteria": {
+      "has_item": "2026-03-29 19:48:45 +0500"
     },
     "done": true
   },
@@ -400,9 +419,15 @@
     },
     "done": true
   },
-  "tetra:upgrades/repairs": {
+  "immersive_paintings:misc/graffiti": {
     "criteria": {
-      "hammer": "2026-03-29 19:28:17 +0500"
+      "has_item": "2026-03-29 19:50:15 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/purple_drink": {
+    "criteria": {
+      "item": "2026-03-29 19:51:15 +0500"
     },
     "done": true
   },
@@ -412,39 +437,21 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "quark:throw_pickarang": {
     "criteria": {
-      "diamond": "2026-03-29 19:30:35 +0500"
+      "throw_pickarang": "2026-03-29 19:54:20 +0500"
     },
     "done": true
   },
-  "spelunkery:recipes/emerald": {
+  "tetra:recipes/planks": {
     "criteria": {
-      "has_item": "2026-03-29 19:36:31 +0500"
+      "got_wood": "2026-03-29 19:55:26 +0500"
     },
     "done": true
   },
-  "tetra:upgrades/double_headed": {
+  "farmersdelight:main/place_campfire": {
     "criteria": {
-      "hammer": "2026-03-29 19:28:17 +0500"
-    },
-    "done": true
-  },
-  "cold_sweat:extreme_temps": {
-    "criteria": {
-      "requirement": "2026-03-29 19:14:31 +0500"
-    },
-    "done": true
-  },
-  "tetra:story/more_upgrades": {
-    "criteria": {
-      "hammer": "2026-03-29 19:28:17 +0500"
-    },
-    "done": true
-  },
-  "immersive_paintings:misc/glow_graffiti": {
-    "criteria": {
-      "has_item": "2026-03-29 19:20:46 +0500"
+      "campfire": "2026-03-30 09:02:32 +0500"
     },
     "done": true
   },
