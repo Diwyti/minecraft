@@ -49,8 +49,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2026-03-30 10:58:56 +0500",
       "minecraft:beach": "2026-03-30 09:53:06 +0500",
-      "minecraft:sparse_jungle": "2026-03-30 09:52:39 +0500"
+      "minecraft:sparse_jungle": "2026-03-30 09:52:39 +0500",
+      "minecraft:lukewarm_ocean": "2026-03-30 10:55:53 +0500",
+      "minecraft:river": "2026-03-30 11:01:26 +0500",
+      "minecraft:forest": "2026-03-30 11:01:16 +0500",
+      "minecraft:lush_caves": "2026-03-30 10:55:40 +0500",
+      "minecraft:jungle": "2026-03-30 10:53:33 +0500",
+      "minecraft:plains": "2026-03-30 11:01:27 +0500"
     },
     "done": false
   },
@@ -210,6 +217,42 @@
   "vinery:main/root": {
     "criteria": {
       "seeds": "2026-03-30 09:54:28 +0500"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-30 11:01:27 +0500"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2026-03-30 10:55:34 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/echo_fork": {
+    "criteria": {
+      "item": "2026-03-30 10:54:44 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2026-03-30 10:53:39 +0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2026-03-30 10:55:44 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2026-03-30 10:56:32 +0500"
     },
     "done": true
   },
