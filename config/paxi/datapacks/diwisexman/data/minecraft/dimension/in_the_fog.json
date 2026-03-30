@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "biomes": [
+        {
+          "biome": "minecraft:in_the_fog",
+          "parameters": {
+            "continentalness": [
+              -1,
+              1
+            ],
+            "depth": 0,
+            "erosion": [
+              -1,
+              1
+            ],
+            "humidity": [
+              -1,
+              1
+            ],
+            "offset": 0,
+            "temperature": [
+              -1,
+              1
+            ],
+            "weirdness": [
+              -1,
+              1
+            ]
+          }
+        }
+      ],
+      "type": "minecraft:multi_noise"
+    },
+    "settings": "minecraft:overworld"
+  }
+}

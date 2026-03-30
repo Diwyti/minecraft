@@ -1,0 +1,4 @@
+execute as @s at @s positioned ~ ~ ~1 if block ~ ~ ~ #minecraft:plant unless entity @e[type=minecraft:area_effect_cloud,distance=..0.1] run summon area_effect_cloud ~ ~ ~ {Duration:999999999,Invisible:1b,Tags:["plant"]}
+execute as @s at @s positioned ~ ~ ~-1 if block ~ ~ ~ #minecraft:plant unless entity @e[type=minecraft:area_effect_cloud,distance=..0.1] run summon area_effect_cloud ~ ~ ~ {Duration:999999999,Invisible:1b,Tags:["plant"]}
+execute as @s at @s positioned ~-1 ~ ~ if block ~ ~ ~ #minecraft:plant unless entity @e[type=minecraft:area_effect_cloud,distance=..0.1] run summon area_effect_cloud ~ ~ ~ {Duration:999999999,Invisible:1b,Tags:["plant"]}
+execute as @s at @s positioned ~1 ~ ~ if block ~ ~ ~ #minecraft:plant unless entity @e[type=minecraft:area_effect_cloud,distance=..0.1] run summon area_effect_cloud ~ ~ ~ {Duration:999999999,Invisible:1b,Tags:["plant"]}
