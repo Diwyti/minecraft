@@ -1,0 +1,1313 @@
+{
+  "minecraft:yellow_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:hummingbird_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:brown_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:sizableshrimp_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:mouse_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:tslat_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:reindeer_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:gamerpotion_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:hippo_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:rabbit_hide": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:rabbit_hide"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 1.5
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "26b46cbd-9da7-48d8-8762-3d7b6fbd729b"
+    }
+  ],
+  "perfectplushies:koala_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:goose_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:frog_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:june_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:lime_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:blue_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:purple_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:raccoon_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:doe_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:light_gray_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:dog_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:dolphin_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "cold_sweat:goat_fur": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:goat_fur"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 2.0,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "d01648a1-249f-43e7-a499-8f162a35d0aa"
+    }
+  ],
+  "perfectplushies:rubber_duck_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:joosh_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:cat_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:pink_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:capybara_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "brewery:patterned_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:elephant_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:silk_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:rocris_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:snow_fox_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:gray_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:panda_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:gamerpotion_plushie_rare": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:cyan_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:white_rabbit_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:lion_cub_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:hedgehog_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "cold_sweat:chameleon_molt": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:chameleon_molt"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "value": 2.0,
+        "adapt_speed": 0.0085
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "dca567d4-8eea-4656-b651-01f8771a8ba1"
+    }
+  ],
+  "perfectplushies:aye_aye_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:red_panda_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:sirjain_plushie_rare": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:duck_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:green_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:red_ruffed_lemur_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:orange_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:red_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:geode_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "cold_sweat:hoglin_hide": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:hoglin_hide"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 0.0,
+        "heat": 2.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "ecb44ad7-9084-4455-b100-7b8a5feec8be"
+    }
+  ],
+  "perfectplushies:turtle_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:red_fox_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:black_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:white_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:seal_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:bear_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:sirjain_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:monkey_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:nyf_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:light_blue_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:leather": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:leather"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.0,
+        "heat": 1.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "998802d2-3e6e-4073-b6d5-2e6ffb4a7cb1"
+    }
+  ],
+  "perfectplushies:robin_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:dumbo_blob_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:daniel_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:brown_rabbit_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "minecraft:magenta_wool": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:fennec_fox_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ],
+  "perfectplushies:quokka_plushie": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "#minecraft:wool"
+          ]
+        }
+      },
+      "type": "item",
+      "insulation": {
+        "cold": 1.5,
+        "heat": 0.0
+      },
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "c22cd18f-26b3-4c50-9a75-a11c5285e665"
+    }
+  ]
+}

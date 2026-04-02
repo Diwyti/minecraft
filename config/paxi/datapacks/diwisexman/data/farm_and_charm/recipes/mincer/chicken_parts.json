@@ -1,7 +1,7 @@
 {
   "type": "farm_and_charm:mincer",
   "ingredient": {
-    "item": "minecraft:chicken"
+    "tag": "forge:raw_chicken"
   },
   "recipe_type": "MEAT",
   "result": {

@@ -2,7 +2,7 @@
   "type": "bakery:stove",
   "ingredients": [
     {
-      "item": "bakery:dough"
+      "item": "farm_and_charm:dough"
     },
     {
       "item": "bakery:yeast"

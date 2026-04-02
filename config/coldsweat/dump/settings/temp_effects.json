@@ -1,0 +1,95 @@
+{
+  "minecraft:player": [
+    {
+      "entity": {
+        "entities": [
+          "minecraft:player"
+        ]
+      },
+      "effects": [
+        {
+          "effect": "cold_sweat:freeze_mining_speed",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:freeze_movement_speed",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:freeze_knockback",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:freeze_healing",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:freeze_hearts",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:freeze_shiver",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:freeze_overlay",
+          "range": {
+            "min": -50,
+            "max": -100
+          }
+        },
+        {
+          "effect": "cold_sweat:heat_blur",
+          "range": {
+            "min": 50,
+            "max": 100
+          }
+        },
+        {
+          "effect": "cold_sweat:heat_fog",
+          "range": {
+            "min": 50,
+            "max": 100
+          }
+        },
+        {
+          "effect": "cold_sweat:heat_sway",
+          "range": {
+            "min": 50,
+            "max": 100
+          }
+        },
+        {
+          "effect": "cold_sweat:heat_vignette",
+          "range": {
+            "min": 50,
+            "max": 100
+          }
+        }
+      ],
+      "required_mods": {},
+      "config_type": "json",
+      "id": "fc79baee-f19f-4d1d-9ae5-de439c0b834d",
+      "registry_name": "cold_sweat:entity/temp_effects",
+      "registry_key": "cold_sweat:default_player"
+    }
+  ]
+}

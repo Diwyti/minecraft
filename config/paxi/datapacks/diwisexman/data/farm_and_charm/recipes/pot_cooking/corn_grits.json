@@ -2,13 +2,13 @@
   "type": "farm_and_charm:pot_cooking",
   "ingredients": [
     {
-      "tag": "farm_and_charm:corn"
+      "item": "brewery:corn"
     },
     {
-      "tag": "farm_and_charm:corn"
+      "item": "brewery:corn"
     },
     {
-      "tag": "farm_and_charm:flour"
+      "item": "farm_and_charm:flour"
     }
   ],
   "container": {

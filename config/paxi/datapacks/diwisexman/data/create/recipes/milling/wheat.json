@@ -1,0 +1,23 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "farm_and_charm:wheat"
+    }
+  ],
+  "processingTime": 150,
+  "results": [
+    {
+      "item": "farm_and_charm:flour"
+    },
+    {
+      "chance": 0.25,
+      "count": 2,
+      "item": "farm_and_charm:flour"
+    },
+    {
+      "chance": 0.25,
+      "item": "minecraft:wheat_seeds"
+    }
+  ]
+}

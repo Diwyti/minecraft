@@ -1,0 +1,44 @@
+{
+  "minecraft:the_nether": {
+    "max_temp": 32.0,
+    "units": "f",
+    "is_offset": true,
+    "dimensions": {
+      "require": [
+        "minecraft:the_nether"
+      ]
+    },
+    "min_temp": 32.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "02fe1091-813e-4269-aef6-db73c46fd60c"
+  },
+  "aether:the_aether": {
+    "max_temp": 32.0,
+    "units": "f",
+    "is_offset": true,
+    "dimensions": {
+      "require": [
+        "aether:the_aether"
+      ]
+    },
+    "min_temp": 32.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "a4f203f0-7224-45c5-a524-d4a711e75692"
+  },
+  "minecraft:the_end": {
+    "max_temp": -5.0,
+    "units": "f",
+    "is_offset": true,
+    "dimensions": {
+      "require": [
+        "minecraft:the_end"
+      ]
+    },
+    "min_temp": -5.0,
+    "required_mods": {},
+    "config_type": "toml",
+    "id": "afb56372-2504-4424-aca3-b3c898605c48"
+  }
+}

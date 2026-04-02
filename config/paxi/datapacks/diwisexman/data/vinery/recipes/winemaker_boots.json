@@ -1,0 +1,32 @@
+
+
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "count": 2,
+      "ingredient": {
+        "item": "sewingkit:wool_roll"
+      }
+    },
+    {
+      "count": 2,
+      "ingredient": {
+        "item": "sewingkit:leather_strip"
+      }
+    },
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:string"
+      }
+    }
+  ],
+  "result": {
+    "item": "vinery:winemaker_boots"
+  },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  }
+}

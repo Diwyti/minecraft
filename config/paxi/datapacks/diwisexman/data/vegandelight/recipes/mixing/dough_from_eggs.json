@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create"
+    }
+  ],
+  "ingredients": [
+    {
+      "fluidTag": "forge:eggs",
+      "amount": 1000
+    },
+    {
+      "item": "farm_and_charm:flour"
+    },
+    {
+      "item": "farm_and_charm:flour"
+    },
+    {
+      "item": "farm_and_charm:flour"
+    }
+  ],
+  "results": [
+    {
+      "item": "farm_and_charm:dough",
+      "count": 3
+    }
+  ]
+}

@@ -8,12 +8,12 @@
   "result": [
     {
       "count": 4,
-      "item": "minecraft:leather"
+      "item": "cold_sweat:hoglin_hide"
     },
     {
       "chance": 0.5,
       "count": 2,
-      "item": "minecraft:leather"
+      "item": "cold_sweat:hoglin_hide"
     }
   ],
   "tool": {

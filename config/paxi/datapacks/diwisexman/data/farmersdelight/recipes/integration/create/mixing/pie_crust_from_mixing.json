@@ -8,13 +8,13 @@
   "type": "create:mixing",
   "ingredients": [
     {
-      "item": "create:wheat_flour"
+      "item": "farm_and_charm:flour"
     },
     {
-      "item": "create:wheat_flour"
+      "item": "farm_and_charm:flour"
     },
     {
-      "item": "create:wheat_flour"
+      "item": "farm_and_charm:flour"
     },
     {
       "fluidTag": "forge:milk",

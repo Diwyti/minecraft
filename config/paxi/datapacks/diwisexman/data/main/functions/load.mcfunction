@@ -22,4 +22,6 @@ scoreboard objectives add fog dummy
 
 execute in minecraft:in_the_fog run forceload add -35 -35 35 35
 
+difficulty hard
+
 #gamerule reducedDebugInfo true

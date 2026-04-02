@@ -1,0 +1,18 @@
+{
+  "cold_sweat:soul_sprout": [
+    {
+      "duration": 1200,
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:soul_sprout"
+          ]
+        }
+      },
+      "temperature": -20.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "92398445-1da4-4f57-a55d-c9eb2a80628f"
+    }
+  ]
+}

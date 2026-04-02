@@ -1,19 +1,31 @@
+
 {
-  "type": "minecraft:crafting_shaped",
-  "key": {
-    "X": {
-      "tag": "minecraft:wool"
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "count": 4,
+      "ingredient": {
+        "item": "sewingkit:wool_roll"
+      }
     },
-    "B": {
-      "item": "minecraft:gold_ingot"
+    {
+      "count": 1,
+      "ingredient": {
+        "item": "minecraft:gold_ingot"
+      }
+    },
+    {
+      "count": 1,
+      "ingredient": {
+        "tag": "forge:string"
+      }
     }
-  },
-  "pattern": [
-    " X ",
-    " B ",
-    "XXX"
   ],
   "result": {
     "item": "herbalbrews:witch_hat"
+  },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
   }
 }

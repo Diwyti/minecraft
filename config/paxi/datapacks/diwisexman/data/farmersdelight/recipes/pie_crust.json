@@ -6,7 +6,7 @@
       "tag": "forge:milk"
     },
     "w": {
-      "item": "minecraft:wheat"
+      "item": "farm_and_charm:flour"
     }
   },
   "pattern": [

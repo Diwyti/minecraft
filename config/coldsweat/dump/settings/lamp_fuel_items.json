@@ -1,0 +1,18 @@
+{
+  "cold_sweat:soul_sprout": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "cold_sweat:soul_sprout"
+          ]
+        }
+      },
+      "type": "soulspring_lamp",
+      "fuel": 4.0,
+      "required_mods": {},
+      "config_type": "toml",
+      "id": "9a8587f5-906a-439d-ae2b-536b7e4eafb7"
+    }
+  ]
+}

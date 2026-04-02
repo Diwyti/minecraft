@@ -486,9 +486,9 @@
     },
     "done": true
   },
-  "spelunkery:recipes/raw_magnetite_block": {
+  "spelunkery:spelunkery/depth_gauge": {
     "criteria": {
-      "has_item": "2026-04-02 06:04:08 +0500"
+      "item": "2026-04-02 05:59:33 +0500"
     },
     "done": true
   },
@@ -498,9 +498,9 @@
     },
     "done": true
   },
-  "spelunkery:spelunkery/compression_blast_miner": {
+  "spelunkery:recipes/raw_magnetite_block": {
     "criteria": {
-      "item": "2026-04-02 06:06:55 +0500"
+      "has_item": "2026-04-02 06:04:08 +0500"
     },
     "done": true
   },
@@ -510,15 +510,21 @@
     },
     "done": true
   },
-  "spelunkery:recipes/cinnabar_block": {
+  "spelunkery:recipes/raw_magnetite": {
     "criteria": {
-      "has_item": "2026-04-02 06:07:01 +0500"
+      "has_item": "2026-04-02 06:05:19 +0500"
     },
     "done": true
   },
-  "tetra:upgrades/toolbelt": {
+  "spelunkery:spelunkery/compression_blast_miner": {
     "criteria": {
-      "toolbelt": "2026-04-02 06:10:45 +0500"
+      "item": "2026-04-02 06:06:55 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/cinnabar_block": {
+    "criteria": {
+      "has_item": "2026-04-02 06:07:01 +0500"
     },
     "done": true
   },
@@ -528,15 +534,41 @@
     },
     "done": true
   },
-  "spelunkery:recipes/raw_magnetite": {
+  "tetra:upgrades/toolbelt": {
     "criteria": {
-      "has_item": "2026-04-02 06:05:19 +0500"
+      "toolbelt": "2026-04-02 06:10:45 +0500"
     },
     "done": true
   },
-  "spelunkery:spelunkery/depth_gauge": {
+  "farm_and_charm:main/cook_everything": {
     "criteria": {
-      "item": "2026-04-02 05:59:33 +0500"
+      "farm_and_charm:yeast": "2026-04-02 10:55:07 +0500"
+    },
+    "done": false
+  },
+  "bakery:main/get_yeast": {
+    "criteria": {
+      "get_yeast": "2026-04-02 10:55:08 +0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/witching_time": {
+    "criteria": {
+      "witch_hat": "2026-04-02 12:04:35 +0500"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "pants": "2026-04-02 12:07:15 +0500",
+      "tunic": "2026-04-02 12:07:20 +0500"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/shadow_armor": {
+    "criteria": {
+      "helmet": "2026-04-02 12:09:40 +0500",
+      "tunic": "2026-04-02 12:09:41 +0500"
     },
     "done": true
   },

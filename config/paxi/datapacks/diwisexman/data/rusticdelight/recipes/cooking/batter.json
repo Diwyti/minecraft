@@ -13,10 +13,10 @@
       "tag": "forge:eggs"
     },
     {
-      "item": "minecraft:wheat"
+      "item": "farm_and_charm:flour"
     },
     {
-      "item": "minecraft:wheat"
+      "item": "farm_and_charm:flour"
     }
   ],
   "recipe_book_tab": "misc",

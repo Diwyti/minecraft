@@ -1,0 +1,31 @@
+
+{
+  "type": "sewingkit:sewing",
+  "materials": [
+    {
+      "count": 6,
+      "ingredient": {
+        "item": "cold_sweat:hoglin_hide"
+      }
+    },
+    {
+      "count": 4,
+      "ingredient": {
+        "item": "sewingkit:leather_strip"
+      }
+    },
+    {
+      "count": 2,
+      "ingredient": {
+        "tag": "forge:string"
+      }
+    }
+  ],
+  "result": {
+    "item": "cold_sweat:hoglin_chestplate"
+  },
+  "tool": {
+    "type": "sewingkit:tool_ingredient",
+    "tool_type": "sewingkit_sew"
+  }
+}

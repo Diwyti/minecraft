@@ -1,0 +1,22 @@
+{
+  "minecraft:sponge": [
+    {
+      "item": {
+        "items": {
+          "require": [
+            "minecraft:sponge"
+          ]
+        }
+      },
+      "result": {
+        "id": "minecraft:wet_sponge",
+        "Count": 1
+      },
+      "required_mods": [
+        "minecraft"
+      ],
+      "config_type": "toml",
+      "id": "e0272ccc-c58b-40f2-b8a2-a82468e8ca0f"
+    }
+  ]
+}
