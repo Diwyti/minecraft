@@ -1,0 +1,26 @@
+{
+  "type": "brewinandchewin:fermenting",
+  "basefluid": {
+    "count": 1000,
+    "fluid": "minecraft:water"
+  },
+  "experience": 1.0,
+  "fermentingtime": 9600,
+  "ingredients": [
+    {
+      "item": "brewery:hops"
+    },
+    {
+      "item": "brewery:hops"
+    },
+    {
+      "item": "brewery:hops"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "item": "brewery:beer_hops"
+  },
+  "temperature": 3
+}

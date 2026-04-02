@@ -1,0 +1,27 @@
+
+{
+  "type": "brewinandchewin:fermenting",
+  "basefluid": {
+    "count": 1000,
+    "fluid": "minecraft:water"
+  },
+  "experience": 1.0,
+  "fermentingtime": 9600,
+  "ingredients": [
+    {
+      "item": "brewery:dried_wheat"
+    },
+    {
+      "item": "brewery:dried_corn"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "count": 1,
+    "item": "brewery:whiskey_carrasconlabel"
+  },
+  "temperature": 4
+}

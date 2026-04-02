@@ -1,0 +1,11 @@
+{
+  "type": "brewery:drying",
+  "ingredients": [
+    {
+      "item": "brewery:barley"
+    }
+  ],
+  "output": {
+    "item": "brewery:dried_barley"
+  }
+}

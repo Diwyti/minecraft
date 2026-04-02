@@ -1,0 +1,18 @@
+{
+  "values": [
+    "minecraft:chicken",
+    "farmersdelight:chicken_cuts",
+    "minecraft:beef",
+    "farmersdelight:minced_beef",
+    "minecraft:mutton",
+    "farmersdelight:mutton_chops",
+    "minecraft:porkchop",
+    "farmersdelight:bacon",
+    "farmersdelight:ham",
+    "aethersdelight:raw_moa_cuts",
+    "aethersdelight:wing",
+    "mynethersdelight:hoglin_sausage",
+    "mynethersdelight:hoglin_loin",
+    "mynethersdelight:minced_strider"
+  ]
+}

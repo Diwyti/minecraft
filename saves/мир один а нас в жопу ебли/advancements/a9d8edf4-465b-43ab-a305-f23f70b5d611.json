@@ -49,13 +49,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2026-04-02 03:41:09 +0500",
       "minecraft:bamboo_jungle": "2026-03-30 10:58:56 +0500",
       "minecraft:beach": "2026-03-30 09:53:06 +0500",
       "minecraft:sparse_jungle": "2026-03-30 09:52:39 +0500",
       "minecraft:lukewarm_ocean": "2026-03-30 10:55:53 +0500",
       "minecraft:river": "2026-03-30 11:01:26 +0500",
+      "minecraft:dripstone_caves": "2026-04-02 03:42:21 +0500",
       "minecraft:forest": "2026-03-30 11:01:16 +0500",
       "minecraft:lush_caves": "2026-03-30 10:55:40 +0500",
+      "minecraft:windswept_forest": "2026-04-02 03:41:01 +0500",
       "minecraft:jungle": "2026-03-30 10:53:33 +0500",
       "minecraft:plains": "2026-03-30 11:01:27 +0500"
     },
@@ -220,15 +223,9 @@
     },
     "done": true
   },
-  "vinery:main/fruits_of_the_field": {
+  "spelunkery:recipes/stick": {
     "criteria": {
-      "fruits_of_the_field": "2026-03-30 11:01:27 +0500"
-    },
-    "done": true
-  },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2026-03-30 10:55:34 +0500"
+      "has_item": "2026-03-30 10:53:39 +0500"
     },
     "done": true
   },
@@ -238,9 +235,9 @@
     },
     "done": true
   },
-  "spelunkery:recipes/stick": {
+  "tetra:spelunking/root": {
     "criteria": {
-      "has_item": "2026-03-30 10:53:39 +0500"
+      "spelunking": "2026-03-30 10:55:34 +0500"
     },
     "done": true
   },
@@ -253,6 +250,221 @@
   "cold_sweat:extreme_temps": {
     "criteria": {
       "requirement": "2026-03-30 10:56:32 +0500"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2026-03-30 11:01:27 +0500"
+    },
+    "done": true
+  },
+  "bakery:main/find_wild_crops": {
+    "criteria": {
+      "lettuce_seeds": "2026-04-01 23:29:01 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "barley_seeds": "2026-04-02 02:33:25 +0500",
+      "hops": "2026-04-01 23:37:17 +0500",
+      "barley": "2026-04-01 23:37:03 +0500"
+    },
+    "done": false
+  },
+  "brewery:main/crop_collector": {
+    "criteria": {
+      "brewery:corn": "2026-04-01 23:37:15 +0500",
+      "brewery:hops": "2026-04-01 23:37:17 +0500",
+      "brewery:barley": "2026-04-01 23:37:03 +0500"
+    },
+    "done": true
+  },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2026-04-02 00:09:48 +0500"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2026-04-02 00:11:13 +0500"
+    },
+    "done": false
+  },
+  "create:haunted_bell": {
+    "criteria": {
+      "0": "2026-04-02 00:18:09 +0500"
+    },
+    "done": true
+  },
+  "create:diving_suit_lava": {
+    "criteria": {
+      "0": "2026-04-02 00:20:04 +0500"
+    },
+    "done": true
+  },
+  "create:cardboard_armor": {
+    "criteria": {
+      "0": "2026-04-02 00:33:26 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-04-02 00:35:11 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2026-04-02 00:35:11 +0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2026-04-02 00:35:11 +0500"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2026-04-02 00:35:18 +0500"
+    },
+    "done": true
+  },
+  "create:packager": {
+    "criteria": {
+      "0": "2026-04-02 00:42:50 +0500"
+    },
+    "done": true
+  },
+  "create:frogport": {
+    "criteria": {
+      "0": "2026-04-02 00:43:07 +0500"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/brew_drink": {
+    "criteria": {
+      "has_drink": "2026-04-02 02:55:39 +0500"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/crafting_problem": {
+    "criteria": {
+      "brewinandchewin:salty_folly": "2026-04-02 02:58:08 +0500",
+      "brewinandchewin:beer": "2026-04-02 02:55:42 +0500"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2026-04-02 02:55:42 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_wheat": {
+    "criteria": {
+      "beer_wheat": "2026-04-02 02:56:08 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_barley": {
+    "criteria": {
+      "beer_barley": "2026-04-02 02:58:18 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2026-04-02 03:00:37 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/drying_expertise": {
+    "criteria": {
+      "silo": "2026-04-02 03:01:51 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/get_dried_corn": {
+    "criteria": {
+      "dry_corn": "2026-04-02 03:02:13 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_jojannik": {
+    "criteria": {
+      "whiskey_jojannik": "2026-04-02 03:21:04 +0500"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/place_keg": {
+    "criteria": {
+      "placed_keg": "2026-04-02 03:29:53 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_cristelwalker": {
+    "criteria": {
+      "whiskey_cristelwalker": "2026-04-02 03:32:29 +0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2026-04-02 03:47:05 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:get_soul_lamp": {
+    "criteria": {
+      "requirement": "2026-04-02 03:47:58 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2026-04-02 03:50:31 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/hoglin_armor": {
+    "criteria": {
+      "has_item": "2026-04-02 03:50:36 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:insulate_armor": {
+    "criteria": {
+      "requirement": "2026-04-02 03:50:39 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2026-04-02 03:58:13 +0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2026-04-02 04:00:13 +0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/craft_everything": {
+    "criteria": {
+      "herbalbrews:coffee": "2026-04-02 04:44:45 +0500"
+    },
+    "done": false
+  },
+  "herbalbrews:main/drink_coffee": {
+    "criteria": {
+      "coffee": "2026-04-02 04:52:51 +0500"
     },
     "done": true
   },

@@ -1,0 +1,28 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:boiled_egg"
+    },
+    {
+      "tag": "forge:boiled_egg"
+    },
+    [
+      {
+        "item": "farmersdelight:minced_beef"
+      },
+      {
+        "item": "mynethersdelight:hoglin_sausage"
+      }
+    ],
+    {
+      "tag": "forge:bread"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "mynethersdelight:scotch_eggs"
+  }
+}

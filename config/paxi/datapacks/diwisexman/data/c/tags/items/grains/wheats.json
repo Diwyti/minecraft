@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wheat",
+    "farm_and_charm:oat",
+    "farm_and_charm:barley",
+    "brewery:barley",
+    "farm_and_charm:corn",
+    "brewery:corn"
+  ]
+}

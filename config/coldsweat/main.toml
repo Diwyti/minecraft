@@ -2,7 +2,7 @@
 [Builtin]
 	#─────────────────────────────────────────────────────────────────────────
 	# This setting doesn't do anything. Change the difficulty using the in-game menu
-	Difficulty = "normal"
+	Difficulty = "hard"
 	#─────────────────────────────────────────────────────────────────────────
 	# The current version of Cold Sweat. This is used by the auto-updater
 	Version = "2.4-b06g"
@@ -14,15 +14,15 @@
 	#─────────────────────────────────────────────────────────────────────────
 	# Defines the minimum habitable temperature
 	#Range: -Infinity ~ Infinity
-	"Minimum Habitable Temperature" = 0.4
+	"Minimum Habitable Temperature" = 0.5111111111111111
 	#─────────────────────────────────────────────────────────────────────────
 	# Defines the maximum habitable temperature
 	#Range: -Infinity ~ Infinity
-	"Maximum Habitable Temperature" = 1.511111111111111
+	"Maximum Habitable Temperature" = 1.288888888888889
 	#─────────────────────────────────────────────────────────────────────────
 	# Rate at which the player's body temperature changes (default: 1.0 (100%))
 	#Range: 0.0 ~ Infinity
-	"Rate Multiplier" = 1.0
+	"Rate Multiplier" = 1.25
 	#─────────────────────────────────────────────────────────────────────────
 	# Damage dealt to the player when they are too hot or too cold
 	#Range: 0.0 ~ Infinity

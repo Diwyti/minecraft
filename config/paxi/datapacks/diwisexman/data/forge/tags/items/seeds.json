@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bakery:oat_seeds",
+    "bakery:strawberry_seeds",
+    "farm_and_charm:strawberry_seeds"
+  ]
+}

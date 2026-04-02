@@ -1,0 +1,35 @@
+
+{
+  "type": "herbalbrews:kettle_brewing",
+  "experience": 1,
+  "crafting_duration": 30,
+  "fluid": [
+    {
+      "amount": 20
+    }
+  ],
+  "heat_needed": [
+    {
+      "amount": 50
+    }
+  ],
+  "ingredients": [
+    {
+      "item": "rusticdelight:roasted_coffee_beans"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    },
+    {
+      "item": "rusticdelight:roasted_coffee_beans"
+    },
+    {
+      "tag": "forge:milk"
+    }
+  ],
+  "result": {
+    "item": "rusticdelight:chocolate_coffee",
+    "effect": "herbalbrews:deeprush",
+    "effectduration": 1800
+  }
+}

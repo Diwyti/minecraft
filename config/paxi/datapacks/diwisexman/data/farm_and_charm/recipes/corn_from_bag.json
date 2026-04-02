@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "farm_and_charm:corn_bag"
+    }
+  ],
+  "result": {
+    "item": "brewery:corn",
+    "count": 9
+  }
+}

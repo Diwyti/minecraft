@@ -246,11 +246,11 @@
 	#─────────────────────────────────────────────────────────────────────────
 	# Allow fire resistance to block overheating damage
 	# ⌄ 
-	"Fire Resistance Immunity" = true
+	"Fire Resistance Immunity" = false
 	#─────────────────────────────────────────────────────────────────────────
 	# Allow ice resistance to block freezing damage
 	# ⌄ 
-	"Ice Resistance Immunity" = true
+	"Ice Resistance Immunity" = false
 	#─────────────────────────────────────────────────────────────────────────
 	# Whether a thermometer is required to see exact world and body temperature
 	# ⌄ 
