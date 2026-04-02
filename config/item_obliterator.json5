@@ -90,6 +90,16 @@
     "additionaladditions:depth_meter",
     "additionaladditions:glow_stick",
     "spelunkery:compression_blast_miner",
+    "spelunkery:flint_hammer_and_chisel",
+    "spelunkery:obsidian_hammer_and_chisel",
+    "create:honeyed_apple",
+    "additionaladditions:honeyed_apple",
+    "create:brass_funnel",
+    "create:smart_chute",
+    "create:sequenced_gearshift",
+    "overgeared:copper_plate",
+    "create:rotation_speed_controller",
+    "overgeared:iron_plate",
     "bakery:oat"
 
   ],

@@ -1,0 +1,26 @@
+
+{
+  "type": "overgeared:alloy_smelting",
+  "category": "misc",
+  "group": "misc",
+  "experience": 0.5,
+  "cookingtime": 250,
+  "ingredients": [
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    },
+    {
+      "item": "minecraft:copper_ingot"
+    }
+  ],
+  "result": {
+    "item": "additionaladditions:rose_gold_alloy",
+    "count": 1
+  }
+}

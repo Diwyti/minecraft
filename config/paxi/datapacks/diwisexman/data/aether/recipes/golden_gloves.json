@@ -1,16 +1,29 @@
+
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "overgeared:forging",
   "category": "equipment",
+  "group": "",
+  "hammering": 5,
+  "has_polishing": false,
+  "has_quality": true,
   "key": {
     "#": {
-      "tag": "forge:ingots/gold"
+      "item": "minecraft:gold_ingot"
     }
   },
+  "minimum_quality": "poor",
+  "need_quenching": false,
+  "needs_minigame": false,
   "pattern": [
-    "# #"
+    "   ",
+    "# #",
+    "   "
   ],
+  "quality_difficulty": "none",
+  "requires_blueprint": false,
   "result": {
     "item": "aether:golden_gloves"
   },
-  "show_notification": true
+  "show_notification": true,
+  "tier": "stone"
 }

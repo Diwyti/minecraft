@@ -10,7 +10,7 @@
       "item": "minecraft:chest"
     },
     "W": {
-      "item": "bakery:chocolate_truffle"
+      "item": "create:bar_of_chocolate"
     }
   },
   "result": {
