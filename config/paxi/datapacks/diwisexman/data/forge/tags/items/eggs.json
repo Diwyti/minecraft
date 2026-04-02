@@ -1,6 +1,11 @@
 {
   "replace": false,
   "values": [
-    "minecraft:egg"
+    "minecraft:egg",
+    "quark:egg_parrot_blue",
+    "quark:egg_parrot_gray",
+    "quark:egg_parrot_green",
+    "quark:egg_parrot_red_blue",
+    "quark:egg_parrot_yellow_blue"
   ]
 }

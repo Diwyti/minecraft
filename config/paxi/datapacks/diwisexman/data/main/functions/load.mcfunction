@@ -21,3 +21,5 @@ scoreboard objectives add tp trigger
 scoreboard objectives add fog dummy
 
 execute in minecraft:in_the_fog run forceload add -35 -35 35 35
+
+#gamerule reducedDebugInfo true

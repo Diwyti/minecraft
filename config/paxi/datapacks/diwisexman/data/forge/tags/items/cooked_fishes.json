@@ -1,6 +1,8 @@
 {
   "values": [
     "#forge:cooked_fishes/cod",
+    "alexscaves:cooked_lanternfish",
+    "alexscaves:cooked_tripodfish",
     "#forge:cooked_fishes/salmon"
   ]
 }

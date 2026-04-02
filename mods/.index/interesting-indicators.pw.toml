@@ -1,0 +1,16 @@
+filename = 'interesting_indicators-1.0.0.jar'
+name = 'Interesting Indicators'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '94d99340cc624c24a8f2609fb82bfaa6c7e8686b6a6726761dfc43b0fd7ee5d65f1a36a695922caf0e5db0198885da9ba843d20b7d39339074a92e6d58c30ed1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/331Y1efW/versions/FEZMLR4c/interesting_indicators-1.0.0.jar'
+
+[update.modrinth]
+mod-id = '331Y1efW'
+version = 'FEZMLR4c'

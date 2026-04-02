@@ -16,3 +16,6 @@ execute as @a[scores={fog=20000..21000}] at @s run function main:fish/sheep
 
 scoreboard players add fish_r main 1
 execute if score fish_r main matches 50.. run scoreboard players set fish_r main 0
+
+
+

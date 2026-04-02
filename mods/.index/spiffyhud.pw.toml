@@ -1,0 +1,16 @@
+filename = 'spiffyhud_forge_3.1.0_MC_1.20.1.jar'
+name = 'SpiffyHUD'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9283bb15db7d12cf3847824688e283e6b716758d40d8f34c1e93afcbcaebcb47d352b10b1906910f066f0513626d10fb138e75d4fe3051cc316c17057063c860'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wtOPHICQ/versions/IsjK3J6S/spiffyhud_forge_3.1.0_MC_1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'wtOPHICQ'
+version = 'IsjK3J6S'

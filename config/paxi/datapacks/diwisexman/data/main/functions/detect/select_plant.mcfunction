@@ -47,3 +47,5 @@ execute as @e[type=minecraft:pig,scores={plant_lim=19..}] at @s run damage @s 1 
 
 execute in minecraft:in_the_fog as @a[distance=550..] at @s run particle minecraft:campfire_signal_smoke ~ ~1.4 ~ 2 2 2 0.04 15 force @a
 execute in minecraft:in_the_fog as @a[distance=530..] at @s run particle minecraft:campfire_signal_smoke ~ ~1.4 ~ 3 3 3 0.04 15 force @a
+
+
