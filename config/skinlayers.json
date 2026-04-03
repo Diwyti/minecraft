@@ -5,7 +5,7 @@
   "enableRightSleeve": true,
   "enableLeftPants": true,
   "enableRightPants": true,
-  "baseVoxelSize": 1.15,
+  "baseVoxelSize": 1.1400001,
   "bodyVoxelWidthSize": 1.05,
   "headVoxelSize": 1.18,
   "renderDistanceLOD": 14,
@@ -16,5 +16,5 @@
   "compatibilityMode": true,
   "irisCompatibilityMode": false,
   "applySodiumWorkaround": false,
-  "firstPersonPixelScaling": 1.1
+  "firstPersonPixelScaling": 1.095
 }

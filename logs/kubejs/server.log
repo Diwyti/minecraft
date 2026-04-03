@@ -1,11 +1,13 @@
-[17:08:51] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[17:08:51] [INIT] Loaded plugins:
-[17:08:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[17:08:51] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[17:08:51] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
-[17:08:51] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[17:08:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[17:08:51] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[17:08:51] [INFO] Loaded 1/1 KubeJS server scripts in 0.012 s with 0 errors and 0 warnings
-[17:08:51] [INFO] Scripts loaded
-[17:09:14] [INFO] Server resource reload complete!
+[11:20:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[11:20:59] [INIT] Loaded plugins:
+[11:20:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[11:20:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[11:20:59] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[11:20:59] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[11:20:59] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[11:20:59] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[11:20:59] [INFO] Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
+[11:20:59] [INFO] Scripts loaded
+[11:20:59] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[11:20:59] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[11:21:18] [INFO] Server resource reload complete!

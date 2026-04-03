@@ -8,3 +8,7 @@ execute as @e[tag=portal_ot] at @s run particle minecraft:campfire_cosy_smoke ~ 
 execute in minecraft:in_the_fog as @a[distance=550..] at @s run function main:diwiti_rofls/tp_ottyda
 execute in minecraft:in_the_fog as @a[distance=500..] at @s run particle minecraft:smoke ~ ~1.4 ~ 0 0 0 0.04 5 force @a
 execute in minecraft:in_the_fog as @a[distance=500..] at @s run particle minecraft:campfire_signal_smoke ~ ~1.4 ~ 3 3 3 0.04 5 force @a
+
+
+execute as @a[scores={end_chest=1..}] at @s run fill ~5 ~3 ~5 ~-5 ~-3 ~-5 air replace minecraft:ender_chest
+scoreboard players set @a[scores={end_chest=1..}] end_chest 0

@@ -4,7 +4,7 @@ execute as @a at @s positioned ~ ~1.8 ~ run function main:detect/rcast_select
 
 execute as @e[type=minecraft:area_effect_cloud,tag=plant,tag=!tag_select] at @s run function main:detect/select_tag
 
-execute as @e[type=minecraft:area_effect_cloud,tag=plant,scores={tick_plant=60}] at @s run function main:detect/select_biom
+execute as @e[type=minecraft:area_effect_cloud,tag=plant,scores={tick_plant=65}] at @s run function main:detect/select_biom
 
 execute as @e[type=minecraft:area_effect_cloud,tag=plant,sort=random,limit=5] at @s store result score @s plant_lim run execute if entity @e[type=minecraft:area_effect_cloud,distance=..20]
 execute as @e[type=minecraft:area_effect_cloud,tag=plant,scores={plant_lim=400..}] at @s run setblock ~ ~ ~ air destroy

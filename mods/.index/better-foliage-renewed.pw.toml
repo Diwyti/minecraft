@@ -1,0 +1,16 @@
+filename = 'betterfoliage-5.0.2.jar'
+name = 'Better Foliage Renewed'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dc9f2035dd45005716817cc4621ca11d34f70d1bb72aad35808808f43c32b2e0b402a9c252918b318ff6297eb6c1eb565c6d632f446ebe198fca3f40a032f798'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/czNFt8ef/versions/LGnYiw7R/betterfoliage-5.0.2.jar'
+
+[update.modrinth]
+mod-id = 'czNFt8ef'
+version = 'LGnYiw7R'

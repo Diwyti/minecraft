@@ -24,4 +24,6 @@ execute in minecraft:in_the_fog run forceload add -35 -35 35 35
 
 difficulty hard
 
+scoreboard objectives add end_chest minecraft.custom:minecraft.open_enderchest
+
 #gamerule reducedDebugInfo true

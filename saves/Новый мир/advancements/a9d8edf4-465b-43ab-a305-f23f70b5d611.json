@@ -1,0 +1,229 @@
+{
+  "corail_woodcutter:recipes/from_jungle_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/goat_armor": {
+    "criteria": {
+      "has_boots_recipe": "2026-04-03 11:21:56 +0500"
+    },
+    "done": true
+  },
+  "overgeared:root": {
+    "criteria": {
+      "Trigger": "2026-04-03 11:22:03 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/soulspring_lamp": {
+    "criteria": {
+      "has_recipe": "2026-04-03 11:21:56 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_cherry_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_mosaic": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2026-04-03 11:22:03 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_crimson_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2026-04-03 11:25:47 +0500"
+    },
+    "done": true
+  },
+  "brewery:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/root": {
+    "criteria": {
+      "beer": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermolith": {
+    "criteria": {
+      "has_recipe": "2026-04-03 11:21:56 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mangrove_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2026-04-03 11:26:29 +0500",
+      "minecraft:forest": "2026-04-03 11:22:04 +0500"
+    },
+    "done": false
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2026-04-03 11:22:04 +0500"
+    },
+    "done": true
+  },
+  "railways:root": {
+    "criteria": {
+      "0": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "herbalbrews:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/waterskin": {
+    "criteria": {
+      "has_recipe": "2026-04-03 11:21:56 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/chameleon_armor": {
+    "criteria": {
+      "has_boots_recipe": "2026-04-03 11:21:56 +0500"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "has_recipe": "2026-04-03 11:21:56 +0500"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2026-04-03 11:25:27 +0500",
+      "wild_strawberry": "2026-04-03 11:25:27 +0500",
+      "corn": "2026-04-03 11:25:27 +0500",
+      "onion": "2026-04-03 11:25:27 +0500",
+      "wild_corn": "2026-04-03 11:25:27 +0500",
+      "wild_ribwort": "2026-04-03 11:25:27 +0500",
+      "strawberry": "2026-04-03 11:25:27 +0500",
+      "wild_nettle": "2026-04-03 11:25:27 +0500",
+      "barley": "2026-04-03 11:25:27 +0500",
+      "tomato": "2026-04-03 11:25:27 +0500",
+      "lettuce": "2026-04-03 11:25:27 +0500",
+      "wild_lettuce": "2026-04-03 11:25:27 +0500",
+      "wild_tomatoes": "2026-04-03 11:25:27 +0500",
+      "oat_seeds": "2026-04-03 11:25:27 +0500",
+      "tomato_seeds": "2026-04-03 11:25:27 +0500",
+      "barley_seeds": "2026-04-03 11:25:27 +0500",
+      "strawberry_seeds": "2026-04-03 11:25:27 +0500",
+      "lettuce_seeds": "2026-04-03 11:25:27 +0500",
+      "kernels": "2026-04-03 11:25:27 +0500",
+      "wild_barley": "2026-04-03 11:25:27 +0500",
+      "wild_onion": "2026-04-03 11:25:27 +0500",
+      "wild_oat": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2026-04-03 11:29:02 +0500"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_bamboo_planks": {
+    "criteria": {
+      "has_ingredient": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2026-04-03 11:25:27 +0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
