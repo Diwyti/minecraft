@@ -43,7 +43,19 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:flagwithpirate": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "aether:sentry": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:sword_pillager": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -91,6 +103,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:hog_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "alexscaves:underzealot": {
       "enabled": false,
       "speed": 1.0,
@@ -98,6 +116,12 @@
       "threshold": -20.0
     },
     "minecraft:husk": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:testforhelmet": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -199,6 +223,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "raided:necromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:ravager": {
       "enabled": false,
       "speed": 1.0,
@@ -241,6 +271,18 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:summoner_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:tntpillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "croaks:ribbot_mushroom": {
       "enabled": false,
       "speed": 1.0,
@@ -248,6 +290,12 @@
       "threshold": -20.0
     },
     "croaks:ribbot_jonahanoj": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:royal_guards": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -272,6 +320,18 @@
       "threshold": -20.0
     },
     "luminous_nether:crimson_walker": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "yungscavebiomes:ice_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:miner_pillager": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -331,13 +391,49 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "raided:inquisitor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:small_ship": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:pillager": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:mage_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:piratewithsword": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:zoglin": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:raid_blimp": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -361,6 +457,18 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "raidsenhanced:raid_drill": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raided:electromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "aether:mimic": {
       "enabled": false,
       "speed": 1.0,
@@ -379,7 +487,19 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:zombie_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:wither": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raided:savager": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -439,6 +559,18 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:spear_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "yungscavebiomes:sand_snapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "croaks:raid": {
       "enabled": false,
       "speed": 1.0,
@@ -469,6 +601,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "raided:incinerator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "minecraft:elder_guardian": {
       "enabled": false,
       "speed": 1.0,
@@ -482,6 +620,12 @@
       "threshold": -20.0
     },
     "luminous_nether:soul_furnace": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:zapper": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -547,6 +691,12 @@
       "range": 60.0,
       "threshold": -20.0
     },
+    "pillagersplus:bad_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
     "croaks:ribbot": {
       "enabled": false,
       "speed": 1.0,
@@ -572,6 +722,12 @@
       "threshold": -20.0
     },
     "luminous_nether:piglin_cultist_leader": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "raidsenhanced:golem_of_last_resort": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,
@@ -608,6 +764,12 @@
       "threshold": -20.0
     },
     "minecraft:zombie_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "threshold": -20.0
+    },
+    "pillagersplus:sword_pillager_diamond_sword": {
       "enabled": false,
       "speed": 1.0,
       "range": 60.0,

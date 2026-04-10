@@ -3,7 +3,7 @@
   "category": "equipment",
   "ingredients": [
     {
-      "item": "sewingkit:file"
+      "item": "minecraft:stick"
     },
     {
       "tag": "minecraft:planks"

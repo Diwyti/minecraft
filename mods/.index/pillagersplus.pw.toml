@@ -1,0 +1,16 @@
+filename = 'pillagersplus-6.0.2-forge-1.20.1.jar'
+name = 'PillagersPlus'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '63ab1e0488eda00e3aedfbb8f659914dc20395ce5ef02c1694ff8f55abf32b24f45c7938435588791f9e271ca15604df4d283a553362dfcb01609f1a90207a40'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HSdtjW0x/versions/qm8wGlGX/pillagersplus-6.0.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'HSdtjW0x'
+version = 'qm8wGlGX'

@@ -1,0 +1,16 @@
+filename = 'dungeons-and-taverns-stronghold-rework-1.jar'
+name = 'Dungeons and Taverns Stronghold Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '36609101925384bc339483680fa260a7f25424b1cd6e3e9477199797a41687415d9bab1c7b2192c1b9a3216b24d98519f6ad6c5fea9f57312971546847796443'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rYocd2LE/versions/XcN77mjg/dungeons-and-taverns-stronghold-rework-1.jar'
+
+[update.modrinth]
+mod-id = 'rYocd2LE'
+version = 'XcN77mjg'

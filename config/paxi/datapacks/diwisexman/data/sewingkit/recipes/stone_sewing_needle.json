@@ -3,7 +3,7 @@
   "category": "equipment",
   "ingredients": [
     {
-      "item": "sewingkit:file"
+      "item": "overgeared:knappable_rock"
     },
     {
       "tag": "minecraft:stone_tool_materials"

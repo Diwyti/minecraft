@@ -36,7 +36,7 @@
   "hideJREMI": false,
   "hideJREMIHint": true,
   "fontShadows": true,
-  "leavesCulling": "ALL",
+  "leavesCulling": "OFF",
   "fastChests": false,
   "fastBeds": false,
   "rainParticles": true,

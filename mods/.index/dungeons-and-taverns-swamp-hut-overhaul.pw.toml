@@ -1,0 +1,16 @@
+filename = 'dungeons-and-taverns-swamp-hut-rework-1.jar'
+name = 'Dungeons and Taverns Swamp Hut Overhaul'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'aa2ca06288dd2e3182839f7830b593e79553ba294bb7c18ae7df2a5fd2a360aeff5fced72401111069047285d764da63984ddd79333377cc337e4eb51b3b84cc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nWSeFpQt/versions/vXDpyYWK/dungeons-and-taverns-swamp-hut-rework-1.jar'
+
+[update.modrinth]
+mod-id = 'nWSeFpQt'
+version = 'vXDpyYWK'

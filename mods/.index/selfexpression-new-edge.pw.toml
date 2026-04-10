@@ -1,0 +1,16 @@
+filename = 'selfexpression_new_edge-1.0-forge-1.20.1.jar'
+name = 'Selfexpression: New Edge'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e62b7e7199b9045362416610c1af91e202ca2672626fd67f0b9e2e1fe1d103f34cdcae04ceaf4ce49a561a1537c26ee80d8c21273d0e8609ffcec1e1dd0b2ee9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HQ1C1y22/versions/vhVmncX8/selfexpression_new_edge-1.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'HQ1C1y22'
+version = 'vhVmncX8'

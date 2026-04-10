@@ -1,0 +1,16 @@
+filename = 'selfexpression_slim-1.5-forge-1.20.1.jar'
+name = 'Selfexpression: Slim'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '825447a9c4d4f1db2ac7dbc5407e50f80ecc84b8016a368fbe66e5f60c92f7c483b51d178440648608c05a2c65a1513326418bfd37f8d3b42e08c04a7dac5c83'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QVhoLdVI/versions/cF1nEeDh/selfexpression_slim-1.5-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'QVhoLdVI'
+version = 'cF1nEeDh'

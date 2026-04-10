@@ -1,0 +1,16 @@
+filename = 'selfexpression-2.22a-forge-1.20.1.jar'
+name = 'Selfexpression'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6b0be45183919136ff6993754218441b4b01fca8730be10fa6b9387cf904638d1a919da37502465230217649ece4d414d419ffa513a71838f3c3ba53b95781ef'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yv3OK08E/versions/t1IdM5fJ/selfexpression-2.22a-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'yv3OK08E'
+version = 't1IdM5fJ'

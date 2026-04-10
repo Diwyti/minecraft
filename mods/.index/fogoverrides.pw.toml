@@ -1,0 +1,16 @@
+filename = 'fogoverrides-1.20.1-2.3.0.jar'
+name = 'Fog Overrides'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '2260bb3c23369fea32ecc2c44f44054c8fe89b2e7915018dd0bafb720111e3f12ac3a08ed15bd63ee1212e0130ed787df747be8a9d876fa0703ecb5f5afbf1e8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/B1vBJNM4/versions/rOH2HU4V/fogoverrides-1.20.1-2.3.0.jar'
+
+[update.modrinth]
+mod-id = 'B1vBJNM4'
+version = 'rOH2HU4V'

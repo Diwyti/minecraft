@@ -45,7 +45,7 @@ execute as @e[type=minecraft:pig,scores={plant_lim=19..}] at @s run particle min
 execute as @e[type=minecraft:pig,scores={plant_lim=19..}] at @s run damage @s 1 minecraft:magic
 
 
-execute in minecraft:in_the_fog as @a[distance=550..] at @s run particle minecraft:campfire_signal_smoke ~ ~1.4 ~ 2 2 2 0.04 15 force @a
-execute in minecraft:in_the_fog as @a[distance=530..] at @s run particle minecraft:campfire_signal_smoke ~ ~1.4 ~ 3 3 3 0.04 15 force @a
+execute in minecraft:in_the_fog as @a[distance=550..] at @s run scoreboard players add @s fog_sc 3
+execute in minecraft:in_the_fog as @a[distance=530..] at @s run scoreboard players add @s fog_sc 1
 
-
+execute in minecraft:in_the_fog as @a[distance=..500,scores={fog_sc=1..}] at @s run scoreboard players remove @s fog_sc 5

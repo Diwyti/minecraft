@@ -6,9 +6,6 @@ net.minecraft.client.gui.screens.TitleScreen {
 net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
-net.minecraft.client.gui.screens.PauseScreen {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
@@ -16,5 +13,11 @@ de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
 }
 
 net.minecraft.client.gui.screens.SkinCustomizationScreen {
+}
+
+net.minecraft.client.gui.screens.LevelLoadingScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
 }
 

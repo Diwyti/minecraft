@@ -1,15 +1,27 @@
+
 {
-  "type": "minecraft:crafting_shapeless",
-  "category": "equipment",
-  "ingredients": [
-    {
-      "item": "sewingkit:file"
-    },
-    {
+  "type": "overgeared:forging",
+  "category": "tool_heads",
+  "group": "",
+  "hammering": 2,
+  "has_quality": false,
+  "key": {
+    "x": {
       "item": "minecraft:gold_ingot"
     }
+  },
+  "need_quenching": true,
+  "needs_minigame": false,
+  "pattern": [
+    "   ",
+    " x ",
+    "   "
   ],
+  "quality_difficulty": "none",
   "result": {
     "item": "sewingkit:gold_sewing_needle"
-  }
+  },
+  "show_notification": true,
+  "tier": "stone"
 }
+

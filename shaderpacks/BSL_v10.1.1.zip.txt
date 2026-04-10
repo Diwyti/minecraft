@@ -1,0 +1,5 @@
+#Thu Apr 09 19:32:52 QYZT 2026
+shadowDistance=512.0
+FOG_DENSITY=2.50
+shadowMapResolution=3072
+FOG_INTERIOR=true

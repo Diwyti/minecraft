@@ -3,7 +3,7 @@
   "category": "equipment",
   "ingredients": [
     {
-      "item": "sewingkit:file"
+      "item": "minecraft:amethyst_shard"
     },
     {
       "item": "minecraft:diamond"

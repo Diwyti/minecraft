@@ -1,0 +1,16 @@
+filename = 'fdlib-1.0.8-1.20.1.jar'
+name = 'FDLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '61f1ce46a3ade2fd072348445df2380e9e1e087d94469c4de7b64aca49da5b55b99b9e2cf3ec309c01b575c9e991cf37e228b87ab0f2d63d81cf07e66f37522d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LcmGQfK2/versions/UuY7zONC/fdlib-1.0.8-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'LcmGQfK2'
+version = 'UuY7zONC'

@@ -3,7 +3,7 @@
   "category": "equipment",
   "ingredients": [
     {
-      "item": "sewingkit:file"
+      "item": "sewingkit:diamond_sewing_needle"
     },
     {
       "item": "minecraft:netherite_ingot"

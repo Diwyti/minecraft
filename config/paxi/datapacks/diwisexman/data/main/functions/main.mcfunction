@@ -19,3 +19,5 @@ execute if score fish_r main matches 50.. run scoreboard players set fish_r main
 
 
 
+execute in minecraft:overworld as @a[scores={fog_sc=0..},distance=1..] at @s run scoreboard players remove @s fog_sc 1
+

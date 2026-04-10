@@ -1,13 +1,42 @@
-[11:20:59] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[11:20:59] [INIT] Loaded plugins:
-[11:20:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[11:20:59] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[11:20:59] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
-[11:20:59] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
-[11:20:59] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[11:20:59] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[11:20:59] [INFO] Loaded 1/1 KubeJS server scripts in 0.005 s with 0 errors and 0 warnings
-[11:20:59] [INFO] Scripts loaded
-[11:20:59] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
-[11:20:59] [WARN] You can still see the full log (including past reloads) in your latest.log file.
-[11:21:18] [INFO] Server resource reload complete!
+[16:37:09] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:37:09] [INIT] Loaded plugins:
+[16:37:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:37:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:37:09] [INIT] - io.github.mortuusars.exposure.forge.integration.kubejs.ExposureKubeJSPlugin
+[16:37:09] [INIT] - com.momosoftworks.coldsweat.compat.kubejs.KubePlugin
+[16:37:09] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[16:37:09] [INFO] Loaded 1/1 KubeJS server scripts in 0.004 s with 0 errors and 0 warnings
+[16:37:09] [INFO] Scripts loaded
+[16:37:09] [INFO] Initializing recipe event...
+[16:37:10] [INFO] Processing recipes...
+[16:37:10] [WARN] Failed to parse recipe 'luminous_nether:supplementaries_reverse_ash[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [WARN] Failed to parse recipe 'minecraft:iron_ingot_from_blasting_deepslate_iron_ore[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [WARN] Failed to parse recipe 'minecraft:iron_ingot_from_blasting_iron_ore[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [WARN] Failed to parse recipe 'culturaldelights:pickle_crate[minecraft:crafting_shaped]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [WARN] Failed to parse recipe 'miners_delight:calamari_roll[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [WARN] Failed to parse recipe 'culturaldelights:hearty_salad[minecraft:crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [WARN] Failed to parse recipe 'minecraft:iron_ingot_from_blasting_raw_iron[crafting_shapeless]'! Falling back to vanilla: ItemStack 'result' can't be empty!
+[16:37:10] [INFO] Found 13182 recipes in 54.82 ms
+[16:37:10] [INFO] example.js#28: Hello! The recipe event has fired!
+[16:37:10] [INFO] Posted recipe events in 3.977 ms
+[16:37:10] [WARN] Error parsing recipe culturaldelights:pickle_crate[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","pattern":["###","###","###"],"key":{"#":{"item":"vintagedelight:pickle"}},"result":{"item":"culturaldelights:pickle_crate"}}: Unknown item 'vintagedelight:pickle'
+[16:37:10] [WARN] Error parsing recipe culturaldelights:cutting/cut_cucumber[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"vintagedelight:cucumber"}],"tool":{"tag":"forge:tools/knives"},"result":[{"item":"culturaldelights:cut_cucumber","count":2}]}: Unknown item 'vintagedelight:cucumber'
+[16:37:10] [WARN] Error parsing recipe culturaldelights:cutting/cut_pickle[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"vintagedelight:pickle"}],"tool":{"tag":"forge:tools/knives"},"result":[{"item":"culturaldelights:cut_pickle","count":2}]}: Unknown item 'vintagedelight:pickle'
+[16:37:10] [WARN] Error parsing recipe luminous_nether:supplementaries_reverse_ash[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","category":"misc","ingredients":[{"item":"luminous_nether:solid_ash"}],"result":{"item":"supplementaries:ash","count":4}}: Unknown item 'supplementaries:ash'
+[16:37:10] [WARN] Error parsing recipe farmersrespite:chilidog_alt[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"item":"farmersrespite:blazing_chili"},{"item":"mynethersdelight:hotdog"},{"item":"mynethersdelight:hotdog"}],"result":{"count":2,"item":"mynethersdelight:chilidog"}}: Unknown item 'farmersrespite:blazing_chili'
+[16:37:10] [WARN] Error parsing recipe herbalistmod:blazebud_mixed_cigarette[herbalistmod:crafting_special_blazebud_mixed_cigarette]: {"type":"herbalistmod:crafting_special_blazebud_mixed_cigarette","ingredients":[{"item":"tobacconistmod:rolling_paper"},[{"item":"tobacconistmod:tobacco_loose_wild"},{"item":"tobacconistmod:tobacco_loose_virginia"},{"item":"tobacconistmod:tobacco_loose_burley"},{"item":"tobacconistmod:tobacco_loose_oriental"},{"item":"tobacconistmod:tobacco_loose_dokha"},{"item":"tobacconistmod:tobacco_loose_shade"}],[{"item":"herbalistmod:enderpearl_echos_blazebud"},{"item":"herbalistmod:redstone_charge_blazebud"},{"item":"herbalistmod:creeper_green_blazebud"},{"item":"herbalistmod:emerald_dream_blazebud"},{"item":"herbalistmod:blockhead_blue_blazebud"},{"item":"herbalistmod:netherwart_echos_blazebud"}]],"output":{"item":"herbalistmod:blazebud_mixed_cigarette","count":1}}: Unknown item 'tobacconistmod:rolling_paper'
+[16:37:10] [WARN] Error parsing recipe overgeared:silver_ingot_from_cooling_3[overgeared:cooling]: {"type":"overgeared:cooling","input":{"item":"overgeared:heated_silver_ingot"},"output":{"item":"caverns_and_chasms:silver_ingot"}}: Unknown item 'caverns_and_chasms:silver_ingot'
+[16:37:10] [WARN] Error parsing recipe overgeared:silver_ingot_from_cooling[overgeared:cooling]: {"type":"overgeared:cooling","input":{"item":"overgeared:heated_silver_ingot"},"output":{"item":"oreganized:silver_ingot"}}: Unknown item 'oreganized:silver_ingot'
+[16:37:10] [WARN] Error parsing recipe herbalistmod:blazebud_cigar[herbalistmod:crafting_special_blazebud_cigar]: {"type":"herbalistmod:crafting_special_blazebud_cigar","ingredients":[[{"item":"tobacconistmod:tobacco_loose_wild"},{"item":"tobacconistmod:tobacco_loose_virginia"},{"item":"tobacconistmod:tobacco_loose_burley"},{"item":"tobacconistmod:tobacco_loose_oriental"},{"item":"tobacconistmod:tobacco_loose_dokha"},{"item":"tobacconistmod:tobacco_loose_shade"}],[{"item":"herbalistmod:enderpearl_echos_blazebud"},{"item":"herbalistmod:redstone_charge_blazebud"},{"item":"herbalistmod:creeper_green_blazebud"},{"item":"herbalistmod:emerald_dream_blazebud"},{"item":"herbalistmod:blockhead_blue_blazebud"},{"item":"herbalistmod:netherwart_echos_blazebud"}]],"output":{"item":"herbalistmod:blazebud_cigar","count":1}}: Unknown item 'tobacconistmod:tobacco_loose_wild'
+[16:37:10] [WARN] Error parsing recipe herbalistmod:blazebud_cigarette[herbalistmod:crafting_special_blazebud_cigarette]: {"type":"herbalistmod:crafting_special_blazebud_cigarette","ingredients":[{"item":"tobacconistmod:rolling_paper"},[{"item":"herbalistmod:enderpearl_echos_blazebud"},{"item":"herbalistmod:redstone_charge_blazebud"},{"item":"herbalistmod:creeper_green_blazebud"},{"item":"herbalistmod:emerald_dream_blazebud"},{"item":"herbalistmod:blockhead_blue_blazebud"},{"item":"herbalistmod:netherwart_echos_blazebud"}]],"output":{"item":"herbalistmod:blazebud_cigarette","count":1}}: Unknown item 'tobacconistmod:rolling_paper'
+[16:37:10] [WARN] Error parsing recipe miners_delight:calamari_roll[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"item":"minecraft:dried_kelp"},{"item":"farmersdelight:cooked_rice"},{"item":"miners_delight:tentacles"},{"item":"miners_delight:tentacles"}],"result":{"item":"culturaldelights:calamari_roll","count":2}}: Unknown item 'culturaldelights:calamari_roll'
+[16:37:10] [WARN] Error parsing recipe luminous_nether:supplementaries_ash_block[minecraft:crafting_shaped]: {"type":"minecraft:crafting_shaped","category":"misc","pattern":["  ","  "],"key":{},"result":{"item":"luminous_nether:solid_ash","count":1}}: null
+[16:37:10] [WARN] Error parsing recipe minecraft:iron_ingot_from_blasting_deepslate_iron_ore[minecraft:crafting_shapeless]: {"type":"crafting_shapeless","ingredients":[{"item":"minecraft:air"}],"result":{"item":"minecraft:air"}}: Empty ingredient not allowed here
+[16:37:10] [WARN] Error parsing recipe nethersdelight:cutting/hoglin_sausage_alt[farmersdelight:cutting]: {"type":"farmersdelight:cutting","ingredients":[{"item":"nethersdelight:hoglin_loin"}],"result":[{"count":2,"item":"mynethersdelight:hoglin_sausage"}],"tool":{"tag":"forge:tools/knives"}}: Unknown item 'nethersdelight:hoglin_loin'
+[16:37:10] [WARN] Error parsing recipe minecraft:iron_ingot_from_blasting_iron_ore[minecraft:crafting_shapeless]: {"type":"crafting_shapeless","ingredients":[{"item":"minecraft:air"}],"result":{"item":"minecraft:air"}}: Empty ingredient not allowed here
+[16:37:10] [WARN] Error parsing recipe overgeared:silver_ingot_from_cooling_2[overgeared:cooling]: {"type":"overgeared:cooling","input":{"item":"overgeared:heated_silver_ingot"},"output":{"item":"galosphere:silver_ingot"}}: Unknown item 'galosphere:silver_ingot'
+[16:37:10] [WARN] Error parsing recipe herbalistmod:diviners_sage_cigarette[herbalistmod:crafting_special_blazebud_cigarette]: {"type":"herbalistmod:crafting_special_blazebud_cigarette","ingredients":[{"item":"tobacconistmod:rolling_paper"},{"item":"herbalistmod:diviners_sage"}],"output":{"item":"herbalistmod:diviners_sage_cigarette","count":1}}: Unknown item 'tobacconistmod:rolling_paper'
+[16:37:10] [WARN] Error parsing recipe minecraft:iron_ingot_from_blasting_raw_iron[minecraft:crafting_shapeless]: {"type":"crafting_shapeless","ingredients":[{"item":"minecraft:air"}],"result":{"item":"minecraft:air"}}: Empty ingredient not allowed here
+[16:37:10] [WARN] Error parsing recipe culturaldelights:hearty_salad[minecraft:crafting_shapeless]: {"type":"minecraft:crafting_shapeless","ingredients":[{"tag":"forge:crops/tomato"},{"tag":"culturaldelights:avocados"},{"tag":"forge:crops/corn"},{"item":"vintagedelight:cucumber"},{"item":"minecraft:bowl"}],"result":{"item":"culturaldelights:hearty_salad"}}: Unknown item 'vintagedelight:cucumber'
+[16:37:10] [INFO] Added 0 recipes, removed 9 recipes, modified 2 recipes, with 19 failed recipes in 28.16 ms
+[16:37:19] [INFO] Server resource reload complete!

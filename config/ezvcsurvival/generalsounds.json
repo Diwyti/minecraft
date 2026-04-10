@@ -1740,6 +1740,168 @@
       "speed": 1.0,
       "range": 50.0,
       "blocked_sounds": []
+    },
+    "yungscavebiomes:sand_snapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "yungscavebiomes:ice_cube": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:sword_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:spear_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:miner_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:summoner_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:witch": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:royal_guards": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:bad_villager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:hog_rider": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:sword_pillager_diamond_sword": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:mage_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:piratewithsword": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:tntpillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:flagwithpirate": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:testforhelmet": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:zombie_pillager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "pillagersplus:small_ship": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raidsenhanced:raid_blimp": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raidsenhanced:golem_of_last_resort": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raidsenhanced:zapper": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raidsenhanced:raid_drill": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raided:inquisitor": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raided:incinerator": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raided:savager": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raided:necromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
+    },
+    "raided:electromancer": {
+      "enabled": false,
+      "speed": 1.0,
+      "range": 60.0,
+      "blocked_sounds": []
     }
   },
   "sounds": {
@@ -17854,6 +18016,324 @@
       "is_priority": false
     },
     "handcrafted:hammer_stone": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:entity.sand_snapper.emerge": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:entity.sand_snapper.happy": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:entity.sand_snapper.panic": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:entity.sand_snapper.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:entity.sand_snapper.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:entity.sand_snapper.digging": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:ambient.lost_caves.sandstorm_loop": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:ambient.lost_caves.loop": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:music.overworld.lost_caves": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:block.rare_ice.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "yungscavebiomes:music.overworld.ice_caves": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "pillagersplus:hogriderdeath": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "pillagersplus:hogriderliving": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "pillagersplus:hogriderhurts": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "pillagersplus:therightstar": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "pillagersplus:itwaschosenforyou": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_blimp_falling": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_blimp_explode": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_golem_heavy_strike": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_golem_prepare_punch": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_golem_swing": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:lightning_strike": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:engineer_start_ray": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:engineer_ray": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:engineer_lightning_cast": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:ball_lightning_explosion": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:engineer_lightning_orb_launch": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_golem_hit": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_drill_idle": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:raid_drill_dig_out": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raidsenhanced:illager_golem_death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.inquisitor.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.inquisitor.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.inquisitor.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.inquisitor.celebrate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.incinerator.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.incinerator.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.incinerator.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.incinerator.celebrate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.savager.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.savager.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.savager.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.savager.celebrate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.necromancer.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.necromancer.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.necromancer.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.necromancer.celebrate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.electromancer.ambient": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.electromancer.death": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.electromancer.hurt": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.electromancer.celebrate": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.electromancer.casting": {
+      "enabled": false,
+      "speed_multiplier": 1.0,
+      "range_multiplier": 1.0,
+      "is_priority": false
+    },
+    "raided:entity.electromancer.prepare_conversion": {
       "enabled": false,
       "speed_multiplier": 1.0,
       "range_multiplier": 1.0,

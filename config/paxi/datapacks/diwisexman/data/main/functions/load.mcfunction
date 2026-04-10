@@ -1,6 +1,7 @@
 title @a actionbar {"text":"\u0441\u0435\u0440\u0432\u0435\u0440 \u043f\u0435\u0440\u0435\u0437\u0430\u0433\u0440\u0443\u0436\u0435\u043d"}
 function main:detect/select_plant
 function main:diwiti_rofls/3s
+schedule function main:diwiti_rofls/20s 20s
 
 
 scoreboard objectives add rcats_select dummy
@@ -10,6 +11,8 @@ scoreboard objectives add fish_roll dummy
 scoreboard objectives add fishing minecraft.custom:minecraft.fish_caught
 scoreboard objectives add fogkd dummy
 
+
+scoreboard objectives add fog_sc dummy
 scoreboard objectives add rcast_kastil dummy
 scoreboard objectives add main dummy
 scoreboard objectives add sur trigger
@@ -26,4 +29,9 @@ difficulty hard
 
 scoreboard objectives add end_chest minecraft.custom:minecraft.open_enderchest
 
+scoreboard objectives add health health
+
+
+gamerule commandBlockOutput false
+gamerule logAdminCommands false
 #gamerule reducedDebugInfo true
